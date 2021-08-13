@@ -6,7 +6,7 @@ theme:
 nav:
   - Home: index.md
   - Cronograma: cronograma.md
-  - Processo de Design: processo.md
   - Planejamento:
     - Sites Avaliados: planejamento/sites.md
     - Site Escolhido: planejamento/site.md
+  - Processo de Design: processo.md
