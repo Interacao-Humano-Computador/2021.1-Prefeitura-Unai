@@ -33,18 +33,18 @@
 
 
 
-## **Prefeitura de Unaí**
+## ** *Site*
 ### Sugestão:  Irwin Schmitt
 
 <figure>
 <img align=center width="250" src="../../img/logo_unai.jpeg">
 <br>
-<figcaption>Fig. 1 - Logotipo da Prefeitura de Unaí</a></figcaption>
+<figcaption>Fig. 1 - Logotipo da * </a></figcaption>
 </figure>
 
-<p align="justify">O site da Prefeitura de Unaí contém notícias sobre a cidade, serviços online, informações uteis e sobre secretárias, além de dar acesso ao portal da transparência da cidade. </p>
+<p align="justify"> </p>
 <br>
-<p align="justify">O site foi avaliado pelo integrante Paulo Vitor, entre os principais erros de usabilidade está a página principal que tem problemas em relação a estética e design, havendo muitos componentes e dificultando um pouco a navegação do usuário, além de existirem informações desnecessárias como em algumas páginas a presença de links que apontam para a mesma página.</p>
+<p align="justify"> </p>
 <br></br>
 
 
@@ -58,9 +58,9 @@
 <figcaption>Fig. 1 - Logotipo da Prefeitura de Correntina</a></figcaption>
 </figure>
 
-<p align="justify">O site da Prefeitura de Unaí contém notícias sobre a cidade, serviços online, informações uteis e sobre secretárias, além de dar acesso ao portal da transparência da cidade. </p>
+<p align="justify">O site da Prefeitura de Correntina contém notícias sobre a cidade, serviços online, informações uteis e sobre secretárias, além de dar acesso ao portal da transparência da cidade. O site sofreu uma recente atualização geral para melhoramento de usabilidade e de atualizações referentes a migração de governo. </p>
 <br>
-<p align="justify">O site foi avaliado pelo integrante Paulo Vitor, entre os principais erros de usabilidade está a página principal que tem problemas em relação a estética e design, havendo muitos componentes e dificultando um pouco a navegação do usuário, além de existirem informações desnecessárias como em algumas páginas a presença de links que apontam para a mesma página.</p>
+<p align="justify">O site foi avaliado pelo integrante Lucas Lopes, o site segue um estilo de super portal de notícias que visa direcionar para múltiplas seções e páginas agregadoras de conteúdos da prefeitura e do governo federal, de forma que alguns desses links apresentem falhas ou não permitem ao usuário retorno a seção anterior que ele estava</p>
 <br></br>
 
 
@@ -83,16 +83,17 @@ importante no dia a dia do município.Tem o papel de informar e tornar possível
 
 
 
-## **Prefeitura de Unaí**
-### Sugestão: Paulo Vitor
+## ** Site **
+### Sugestão: Victor Rayan
 
 <figure>
 <img align=center width="250" src="../../img/logo_unai.jpeg">
 <br>
-<figcaption>Fig. 1 - Logotipo da Prefeitura de Unaí</a></figcaption>
+<figcaption>Fig. 1 - Logotipo da *</a></figcaption>
 </figure>
 
-<p align="justify">O site da Prefeitura de Unaí contém notícias sobre a cidade, serviços online, informações uteis e sobre secretárias, além de dar acesso ao portal da transparência da cidade. </p>
+<p align="justify">  </p>
 <br>
-<p align="justify">O site foi avaliado pelo integrante Paulo Vitor, entre os principais erros de usabilidade está a página principal que tem problemas em relação a estética e design, havendo muitos componentes e dificultando um pouco a navegação do usuário, além de existirem informações desnecessárias como em algumas páginas a presença de links que apontam para a mesma página.</p>
+<p align="justify">
+ </p>
 <br></br>
