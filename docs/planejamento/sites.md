@@ -66,16 +66,16 @@
 
 
 
-## **Prefeitura de Duque de Caxias**
-### Sugestão: Paulo Vitor
+## **Prefeitura de Presidente Dutra**
+### Sugestão: Victor Rayan
 
 <figure>
 <img align=center width="250" src="../../img/logo_dutra.jpeg">
 <br>
-<figcaption>Fig. 1 - Logotipo da Prefeitura de Duque de Caxias</a></figcaption>
+<figcaption>Fig. 1 - Logotipo da Prefeitura de Presidente dutra</a></figcaption>
 </figure>
 
-<p align="justify">O site da prefeitura de Presidente Dutra escolhido tem um papel
+<p align="justify">O site escolhido, da prefeitura de Presidente Dutra tem um papel
 importante no dia a dia do município.Tem o papel de informar e tornar possível os processos que transitam para os usuários como: licitações, leis, decretos, processos seletivos e concursos públicos.</p>
 <br>
 <p align="justify">O site avaliado, possui problemas relacionados a botões que não funcionam, informações desatualizadas e alguns endereçamentos incorretos.</p>
