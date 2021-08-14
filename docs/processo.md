@@ -56,4 +56,11 @@ ou se for o caso acusar a necessidade de desenvolver um novo sistema interativo 
 
 1. <p align = "justify">Livro: BARBOSA, S. D. J.; SILVA, B. S.; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J; INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO, São Paulo, 2021.</p>
 
+## Versionamento
 
+| Data |Versão|         Descrição          |       Autor      |
+|:----:|:----:|:--------------------------:|:----------------:|
+| 14/08/2021 |  1.0 | Criação da página     | Deivid Carvalho |
+| |    |  |  |
+| |    |  |  |
+| |    |  |  |
