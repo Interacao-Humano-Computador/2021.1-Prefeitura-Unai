@@ -19,7 +19,7 @@ utilizando 3 fases em ciclo com as bases do processo de design:</p>
 - <p align = "justify"><b>Instalação.</b></p>
 
 <figure>
-<img align=center width="700" src="../img/may.png">
+<img align=center width="700" src="img/may.png">
 <br>
 <figcaption>Fig. 1 - Diagrama da Engenharia de usabilidade de Mayhew, retirado do livro feito por Barbosa [1].</a></figcaption>
 </figure>
