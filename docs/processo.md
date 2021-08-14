@@ -12,11 +12,11 @@ ou seja, conceber, modelar e construir, e caso necessário identificar uma nova 
 <p align = "justify">Para isto, Deborah Mayhew (1999) desenvolveu uma técnica para a engenharia de usabilidade, 
 utilizando 3 fases em ciclo com as bases do processo de design:</p>
 
-<p align = "justify"><b>Análise de requisitos;</b></p>
+- <p align = "justify"><b>Análise de requisitos;</b></p>
 
-<p align = "justify"><b>Design, avaliação e desenvolvimento;</b></p>
+- <p align = "justify"><b>Design, avaliação e desenvolvimento;</b></p>
 
-<p align = "justify"><b>Instalação.</b></p>
+- <p align = "justify"><b>Instalação.</b></p>
 
 ### Imagem
 
@@ -24,13 +24,13 @@ utilizando 3 fases em ciclo com as bases do processo de design:</p>
 
 <p align = "justify">Será definido as metas de usabilidades, com base no:</p>
 
-<p align = "justify"><b>Perfil dos usuário;</b>
+- <p align = "justify"><b>Perfil dos usuário;</b>
 
-<p align = "justify"><b>Análise das tarefas;</b>
+- <p align = "justify"><b>Análise das tarefas;</b>
 
-<p align = "justify"><b>Possibilidades e limitações da plataforma;:</b>
+- <p align = "justify"><b>Possibilidades e limitações da plataforma;:</b>
 
-<p align = "justify"><b>Princípios gerais de design de IHC.</b>
+- <p align = "justify"><b>Princípios gerais de design de IHC.</b>
 
 ### Design, avaliação e desenvolvimento:
 
