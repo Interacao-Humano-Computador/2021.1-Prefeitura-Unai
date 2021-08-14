@@ -21,7 +21,7 @@ utilizando 3 fases em ciclo com as bases do processo de design:</p>
 <figure>
 <img align=center width="700" src="img/may.png">
 <br>
-<figcaption>Fig. 1 - Diagrama da Engenharia de usabilidade de Mayhew, retirado do livro feito por Barbosa [1].</a></figcaption>
+<figcaption>Figura 1 - Diagrama da Engenharia de usabilidade de Mayhew, retirado do livro feito por Barbosa [1].</a></figcaption>
 </figure>
 
 ### Análise de requisitos:
