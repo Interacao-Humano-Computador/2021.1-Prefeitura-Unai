@@ -18,7 +18,7 @@
 <br></br>
 
 ## **Prefeitura de Unaí**
-### Sugestão: Hugo Rocha
+### Sugestão: Paulo Victor
 
 <figure>
 <img align=center width="250" src="../../img/logo_unai.jpeg">
@@ -83,17 +83,27 @@ importante no dia a dia do município.Tem o papel de informar e tornar possível
 
 
 
-## ** Site **
-### Sugestão: Victor Rayan
+## ** INPI - Busca de Marcas **
+### Sugestão: Hugo Rocha
 
 <figure>
-<img align=center width="250" src="../../img/logo_unai.jpeg">
+<img align=center width="250" src="https://guardians.com.br/wp-content/uploads/2018/06/registro-de-marcas-e-patentes-inpi-brasil.jpg">
 <br>
-<figcaption>Fig. 1 - Logotipo da *</a></figcaption>
+<figcaption>Fig. 4 - Logotipo do INPI</a></figcaption>
 </figure>
 
-<p align="justify">  </p>
+<p align="justify"> O site escolhido é do INPI (Instituto Nacional da Propriedade Industrial) que tem papel fundamental no âmbito de resgistro de marcas, patentes, desenhos industriais, entre outros. </p>
 <br>
 <p align="justify">
+A parte em que foi feita a avaliação é a de busca de marcas. Nessa parte do site, foram encontrados diversos problemas, como por exemplo: Falta de consistência de padrões e não conter nenhum tipo de prevenção de erros. O site apresenta diversas interfaces completamente diferentes umas das outras e possui uma usabilidade muito ruim.
  </p>
 <br></br>
+
+## Versionamento
+
+| Data |Versão|         Descrição          |       Autor      |
+|:----:|:----:|:--------------------------:|:----------------:|
+| 14/08/2021 |  1.0 | Criação da página     | Deivid Carvalho |
+| 15/08/2021 | 1.1  | Adição de conteúdo    | Hugo Rocha | 
+| |    |  |  |
+| |    |  |  |
