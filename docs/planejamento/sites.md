@@ -104,6 +104,6 @@ A parte em que foi feita a avaliação é a de busca de marcas. Nessa parte do s
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
 | 14/08/2021 |  1.0 | Criação da página     | Deivid Carvalho |
-| 15/08/2021 | 1.1  | Adição de conteúdos    | Hugo Rocha | 
+| 15/08/2021 | 1.1  | Adição de conteúdo    | Hugo Rocha | 
 | |    |  |  |
 | |    |  |  |
