@@ -5,10 +5,10 @@
 
 |             Tarefa              |     Participante(s)       |Entrega|Entrega prevista|
 |:-------------------------------:|:-------------------------:|:-----:|:--------------:|
-|              Wiki               | Lucas                      | 09/08 |     13/08      |
-|           Cronograma            |         Irwin             | 09/08 |     13/08      |
-|    Lista de sites avaliados     |         TODOS            | 09/08 |     13/08      |
-|Definição dos processos de design|     TODOS                 | 09/08 |     13/08      |
-|       Apresentação              | Todos                     | 09/08 |     13/08      | 
+|              Wiki               | Lucas                      | 09/08 |     14/08      |
+|           Cronograma            |         Irwin             | 09/08 |     14/08      |
+|    Lista de sites avaliados     |         TODOS            | 09/08 |     14/08      |
+|Definição dos processos de design|     TODOS                 | 09/08 |     14/08      |
+|       Apresentação              | Todos                     | 09/08 |     15/08      | 
 
 </br>
