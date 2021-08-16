@@ -7,7 +7,7 @@
 ### Sugestão: Deivid Carvalho
 
 <figure>
-<img align=center width="250" src="../img/logo_sigaa.png">
+<img align=center width="250" src="../../img/logo_sigaa.png">
 <br>
 <figcaption>Fig. 1 - Logo do SIGAA - UNB</a></figcaption>
 </figure>
@@ -21,7 +21,7 @@
 ### Sugestão: Paulo Victor
 
 <figure>
-<img align=center width="250" src="../img/logo_unai.jpeg">
+<img align=center width="250" src="../../img/logo_unai.jpeg">
 <br>
 <figcaption>Fig. 2 - Brasão de Unaí</a></figcaption>
 </figure>
@@ -37,7 +37,7 @@
 ### Sugestão:  Irwin Schmitt
 
 <figure>
-<img align=center width="250" src="../img/logo_pontagrossa.png">
+<img align=center width="250" src="../../img/logo_pontagrossa.png">
 <br>
 <figcaption>Fig. 3 - Logo da Prefeitura de Ponta Grossa </a></figcaption>
 </figure>
@@ -57,7 +57,7 @@ Segundo a avaliação do site, os dois principais problemas de usabilidade são 
 ### Sugestão:  Lucas Lopes
 
 <figure>
-<img align=center width="250" src="../img/logo_correntina.png">
+<img align=center width="250" src="../../img/logo_correntina.png">
 <br>
 <figcaption>Fig. 4 - Brasão de Correntina</a></figcaption>
 </figure>
@@ -74,7 +74,7 @@ Segundo a avaliação do site, os dois principais problemas de usabilidade são 
 ### Sugestão: Victor Rayan
 
 <figure>
-<img align=center width="250" src="../img/logo_dutra.jpeg">
+<img align=center width="250" src="../../img/logo_dutra.jpeg">
 <br>
 <figcaption>Fig. 5 - Logo da Prefeitura de Presidente Dutra</a></figcaption>
 </figure>
@@ -110,4 +110,5 @@ A parte em que foi feita a avaliação é a de busca de marcas. Nessa parte do s
 | 14/08/2021 |  1.0 | Criação da página     | Deivid Carvalho |
 | 15/08/2021 | 1.1  | Adição de conteúdo    | Hugo Rocha | 
 | 15/08/2021|  1.2   | Revisão | Lucas |
-| 16/08/2021 | 1.0 | Avaliação do site da Prefeitura de Ponta Grossa e correção de inconsistências | Irwin Schmitt |
+| 16/08/2021 | 1.3 | Avaliação do site da Prefeitura de Ponta Grossa e correção de inconsistências | Irwin Schmitt |
+| 16/08/2021|  1.4   | Revisão | Lucas |
