@@ -57,6 +57,28 @@ assunto.
 Esclarecendo alguns pontos da avaliação heurística de Nielsen, a avaliação será feita por meio
 do “Formulário para Avaliação Heurística” encontrado no artigo “Avaliação Heurística de
 Sítios na Web” de Maciel et al, seguindo os dez princípios de usabilidade descritos por Nielsen.
+
+## Avaliação 
+Como já foi dito no planejamento do projeto, utilizando o método DECIDE só resta a última
+etapa, que é avaliar
+<figure>
+<img align=center width="750" src="../../img/avaliação_1.png">
+<br>
+<figcaption>Figura 2 – Formulário para Avaliação Heurística – Estética e design minimalista .</a></figcaption>
+</figure>
+
+<figure>
+<img align=center width="750" src="../../img/avaliação_2.png">
+<br>
+<figcaption>Figura 3 – Detalhe da página, Info úteis a esquerda .</a></figcaption>
+</figure>
+
+<figure>
+<img align=center width="750" src="../../img/avaliação_3.png">
+<br>
+<figcaption>Figura 4 – Formulário para Avaliação Heurística – Estética e design minimalista .</a></figcaption>
+</figure>
+
 ## Referências Bibliográficas
 Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J.
 (2021) Interação Humano-Computador e Experiência do Usuário.
@@ -66,3 +88,4 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 |:----:|:----:|:--------------------------:|:----------------:|
 | 15/08/2021 |  1.0 | Criação da documento     | Victor, Paulo |
 | 15/08/2021|  1.1   | Revisão | Lucas |
+| 15/08/2021| 1.2  | Adicionando avaliação | Paulo |
