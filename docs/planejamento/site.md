@@ -74,7 +74,7 @@ etapa, que é avaliar
 </figure>
 
 <figure>
-<img align=center width="750" src="../../img/avaliação_3.png">
+<img align=center width="750" src="../../img/avaliação_3.jpg">
 <br>
 <figcaption>Figura 4 – Formulário para Avaliação Heurística – Estética e design minimalista .</a></figcaption>
 </figure>
