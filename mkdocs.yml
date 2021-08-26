@@ -10,10 +10,9 @@ nav:
     - Sites Avaliados: planejamento/sites.md
     - Site Escolhido: planejamento/site.md
   - Processo de Design: processo.md
-  - Perfil de Usuário:
+  - Análise de perfil de usuário:
     - Perfil de Usuário: perfil/perfil.md
     - Personas: perfil/personas.md
-  - Análise de Tarefas:
-    - Análise de tarefas: analise/analise.md
+    - Análise de tarefas: perfil/analise.md
   - Apresentações: apresentacoes/15_08_2021.md
   

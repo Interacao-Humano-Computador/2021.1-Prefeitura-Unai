@@ -1,114 +1,77 @@
 ![UnB](../img/unb.jpg)
 
-# Personas
-Texto explicando oq é
+## 1. Descrição
+<p align="justify">Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais,
+criada para descrever um usuário típico (Cooper et al., 2014; Pruitt e Adlin, 2006; Cooper, 1999). As personas
+serão utilizadas no nosso projeto principalmente para representar um grupo de usuários finais durante discussões de design,
+mantendo todos do grupo focados no mesmo alvo.</p>
 
-## Arnaldo Filho
 
-<div class="toolgrid">
-	<div>
-        <img align=left width="300" src="../../img/arnaldo.png">
-    </div>
-    <div>
-        <p align = "justify"> - Categoria: Persona primária;</p>
-        <p align = "justify"> - Idade: 32 anos;</p>
-        <p align = "justify"> - Região de moradia: Unaí-MG;</p>
-        <p align = "justify"> - Cargo: Jornalista;</p>
-        <p align = "justify"> - Renda mensal: Variável.</p>
-    </div>
-    <p align = "justify"><em>
-    "Arnaldo está diariamente buscando informações sobre a cidade, para exercer sua profissão."</em>
-    </p>
-    <p align = "justify">
-    * Objetivos 
-    - Deseja ter acesso ao portal de transparência, para saber os gastos da cidade;
-    - Deseja ter informações sobre as obras em andamento;
-    - Deseja ter acesso as principais notícias da cidade.
-    </p>
-    <p align = "justify">
-    * Expectativas 
-    - Tem facilidade com a internet, pois seu trabalho exite tal;
-    - Espera que o sistema seja ágil e atual, para que as matérias sejam feitas rapidamente.
-    </p>
-</div>
+## 2. Personas
 
-## Júlia Leitão
+#### 2.1 Persona 1 
 
-<div class="toolgrid">
-	<div>
-        <img align=left width="300" src="../../img/julia.png">
-    </div>
-    <div>
-        <p align = "justify"> - Categoria: Persona primária;</p>
-        <p align = "justify"> - Idade: 22 anos;</p>
-        <p align = "justify"> - Região de moradia: Unaí-MG;</p>
-        <p align = "justify"> - Escolaridade: Estudante de agronomia;</p>
-        <p align = "justify"> - Renda mensal: R$ 0.</p>
-    </div>
-    <p align = "justify"><em>
-    "A mãe de Júlia sempre solicita sua ajuda em relação ao IPTU de sua casa, então Júlia tem o hábito de emitir a guia para sua mãe."</em>
-    </p>
-    <p align = "justify">
-    * Objetivos 
-    - Usar a funcionalidade de IPTU do site;
-    </p>
-    <p align = "justify">
-    * Expectativas
-    - Usar o sistema com uma fácil interface, pois é leiga no assunto;
-    </p>
-</div>
+<center> <img  src="../../img/arnaldo.png" class="center-align" width="300", height = "200"> </center>
 
-## João Hataki
+| Persona | Arnaldo Filho |
+|---------|--------------------|
+| Status: | Persona Primária |
+| Nome: | Arnaldo Filho |
+| Idade: | 32 |
+| Profissão: | Jornalista |
+| Escolaridade: | Ensino Superior completo |
+| Habilidades: | Facilidade com escrita, criatividade |
+| Tarefas: | Deseja ter acesso ao portal de transparência, para saber os gastos da cidade,ter informações sobre as obras em andamento, ter acesso as principais notícias da cidade. |
+| Expectativas: | Espera que o sistema seja ágil e atual, para que as matérias sejam feitas rapidamente  |
 
-<div class="toolgrid">
-	<div>
-        <img align=left width="300" src="../../img/joao.png">
-    </div>
-    <div>
-        <p align = "justify"> - Categoria: Anti-Persona;</p>
-        <p align = "justify"> - Idade: 14 anos;</p>
-        <p align = "justify"> - Região de moradia: Unaí-MG;</p>
-        <p align = "justify"> - Escolaridade: Fundamental II;</p>
-        <p align = "justify"> - Renda mensal: R$ 0.</p>
-    </div>
-    <p align = "justify"><em>
-    "Acesso o computador para assistir aula EAD."</em>
-    </p>
-    <p align = "justify">
-    * Objetivos 
-    - Assistir suas aulas;
-    - Fazer pesquisa acadêmica;
-    - Utilizar a internet como entretenimento.
-    </p>
-</div>
+#### 2.2 Persona 2
 
-## Rômulo Judas 
+<center> <img  src="../../img/julia.png" class="center-align" width="300", height = "200"> </center>
 
-<div class="toolgrid">
-	<div>
-        <img align=left width="300" src="../../img/romulo.png">
-    </div>
-    <div>
-        <p align = "justify"> - Categoria: Persona;</p>
-        <p align = "justify"> - Idade: 53 anos;</p>
-        <p align = "justify"> - Região de moradia: Unaí-MG;</p>
-        <p align = "justify"> - Cargo: Aposentado;</p>
-        <p align = "justify"> - Renda mensal: R$ 6000.</p>
-    </div>
-    <p align = "justify"><em>
-    "Os carros não andam por aqui, pois há buracos enormes. Tenho que fazer uma reclamação no site da prefeitura."</em>
-    </p>
-    <p align = "justify">
-    * Objetivos 
-    - Abrir uma solicitação de serviços;
+| Persona | Julia Leitão |
+|---------|--------------------|
+| Status: | Persona Primária |
+| Nome: | Julia Leitão |
+| Idade: | 22 |
+| Profissão: | Estudante de agronomia |
+| Escolaridade: | Ensino Superior incompleto |
+| Habilidades: | Tem facilidade com tecnologias, tem paciência |
+| Tarefas: | Usar a funcionalidade de IPTU do site |
+| Expectativas: | Usar o sistema com uma fácil interface, pois não tem experiência com a funcionalidade  |
 
-    * Expectativa
-    - Ter facilidade ao executar a tarefa, pois nunca utilizou o site para abrir uma solicitação.
-    </p>
-</div>
+#### 2.3 Persona 3
+
+<center> <img  src="../../img/joao.png" class="center-align" width="300", height = "200"> </center>
+
+| Persona | João Hataki |
+|---------|--------------------|
+| Status: | Anti-Persona |
+| Nome: | João Hataki |
+| Idade: | 14 |
+| Profissão: | Estudante |
+| Escolaridade: | Fundamental II |
+| Habilidades: | Brincalhão, facilidade com exatas|
+| Tarefas: | Assistir suas aulas, fazer pesquisa acadêmica, utilizar a internet como entretenimento |
+| Expectativas: | Não tem expectativas em relação ao site  |
+
+#### 2.4 Persona 4
+
+<center> <img  src="../../img/romulo.png" class="center-align" width="300", height = "200"> </center>
+
+| Persona | Rômulo Judas  |
+|---------|--------------------|
+| Status: | Persona Primária |
+| Nome: | Rômulo Judas  |
+| Idade: | 53 |
+| Profissão: | Aposentado |
+| Escolaridade: | Ensino médio |
+| Habilidades: | Inteligente, muito honesto, persistente|
+| Tarefas: | Abrir uma solicitação de serviços em relação aos buracos em sua rua |
+| Expectativas: | Ter facilidade ao executar a tarefa, pois nunca utilizou o site para abrir uma solicitação |
 
 ## Versionamento
 
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
 | 26/08/2021 |  2.0 | Criação da página  | Deivid Carvalho, Victor Rayan e Paulo Vitor |
+| 26/08/2021 |  2.1 | Corrigindo a página  | Victor Rayan e Paulo Vitor |
