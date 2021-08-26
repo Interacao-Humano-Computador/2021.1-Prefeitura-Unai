@@ -7,7 +7,7 @@ Texto explicando oq é
 
 <div class="toolgrid">
 	<div>
-        <img align=left width="300" src="arnaldo.png">
+        <img align=left width="300" src="../../img/arnaldo.png">
     </div>
     <div>
         <p align = "justify"> - Categoria: Persona primária;</p>
@@ -20,13 +20,13 @@ Texto explicando oq é
     "Arnaldo está diariamente buscando informações sobre a cidade, para exercer sua profissão."</em>
     </p>
     <p align = "justify">
-    Objetivos 
+    * Objetivos 
     - Deseja ter acesso ao portal de transparência, para saber os gastos da cidade;
     - Deseja ter informações sobre as obras em andamento;
     - Deseja ter acesso as principais notícias da cidade.
     </p>
     <p align = "justify">
-    Expectativas 
+    * Expectativas 
     - Tem facilidade com a internet, pois seu trabalho exite tal;
     - Espera que o sistema seja ágil e atual, para que as matérias sejam feitas rapidamente.
     </p>
@@ -36,7 +36,7 @@ Texto explicando oq é
 
 <div class="toolgrid">
 	<div>
-        <img align=left width="300" src="julia.png">
+        <img align=left width="300" src="../../img/julia.png">
     </div>
     <div>
         <p align = "justify"> - Categoria: Persona primária;</p>
@@ -49,11 +49,11 @@ Texto explicando oq é
     "A mãe de Júlia sempre solicita sua ajuda em relação ao IPTU de sua casa, então Júlia tem o hábito de emitir a guia para sua mãe."</em>
     </p>
     <p align = "justify">
-    Objetivos 
+    * Objetivos 
     - Usar a funcionalidade de IPTU do site;
     </p>
     <p align = "justify">
-    Expectativas
+    * Expectativas
     - Usar o sistema com uma fácil interface, pois é leiga no assunto;
     </p>
 </div>
@@ -62,7 +62,7 @@ Texto explicando oq é
 
 <div class="toolgrid">
 	<div>
-        <img align=left width="300" src="joao.png">
+        <img align=left width="300" src="../../img/joao.png">
     </div>
     <div>
         <p align = "justify"> - Categoria: Anti-Persona;</p>
@@ -75,7 +75,7 @@ Texto explicando oq é
     "Acesso o computador para assistir aula EAD."</em>
     </p>
     <p align = "justify">
-    Objetivos 
+    * Objetivos 
     - Assistir suas aulas;
     - Fazer pesquisa acadêmica;
     - Utilizar a internet como entretenimento.
@@ -86,7 +86,7 @@ Texto explicando oq é
 
 <div class="toolgrid">
 	<div>
-        <img align=left width="300" src="joao.png">
+        <img align=left width="300" src="../../img/romulo.png">
     </div>
     <div>
         <p align = "justify"> - Categoria: Persona;</p>
@@ -99,10 +99,10 @@ Texto explicando oq é
     "Os carros não andam por aqui, pois há buracos enormes. Tenho que fazer uma reclamação no site da prefeitura."</em>
     </p>
     <p align = "justify">
-    Objetivos 
+    * Objetivos 
     - Abrir uma solicitação de serviços;
 
-    Expectativa
+    * Expectativa
     - Ter facilidade ao executar a tarefa, pois nunca utilizou o site para abrir uma solicitação.
     </p>
 </div>
