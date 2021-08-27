@@ -13,7 +13,9 @@ nav:
   - Análise de perfil de usuário:
     - Perfil de Usuário: perfil/perfil.md
     - Personas: perfil/personas.md
-    - Análise de tarefas: perfil/analise.md
-    - CTT: perfil/ctt.md
+  - Análise de tarefas: 
+    - HTA: analise/hta.md
+    - CTT: analise/ctt.md
+    - KLM: analise/klm.md
   - Apresentações: apresentacoes/15_08_2021.md
   

@@ -22,7 +22,12 @@ auxiliar na identificação de problemas de desempenho. </p>
 
 
 ## Resultados
-<p align = "justify">A seguir estão apresentadas as análises das tarefas HTA: </p>
+<p align = "justify">A seguir estão apresentadas as análises das tarefas HTA:</p>
+<figure>
+<img align=center width="700" src="../../img/hta_hugo.png">
+<br>
+<figcaption>Figura 1 - Diagrama HTA solicitação de iluminação pública.</a></figcaption>
+</figure>
         
 
 
