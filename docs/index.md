@@ -12,7 +12,6 @@ Documentação disponível para o projeto que foi realizado na disciplina de **I
     <tr>
         <th>Foto</th>
         <th>Nome</th>
-        <th>Matrícula</th>
         <th>GitHUB</th>
     </tr>
     <tr>
@@ -21,9 +20,6 @@ Documentação disponível para o projeto que foi realizado na disciplina de **I
         </td>
         <td style="padding-top: 50px;">
             Deivid Carvalho
-        </td>
-        <td style="padding-top: 50px;">
-            19/0026758
         </td>
         <td style="padding-top: 50px;">
             <a href="https://github.com/deivid-a1" target="_blank">@deivid-a1</a>
@@ -37,9 +33,6 @@ Documentação disponível para o projeto que foi realizado na disciplina de **I
             Hugo Rocha
         </td>
         <td style="padding-top: 50px;">
-            18/0136925
-        </td>
-        <td style="padding-top: 50px;">
             <a href="https://github.com/hugorochaffs" target="_blank">@hugorochaffs</a>
         </td>
     </tr>
@@ -49,9 +42,6 @@ Documentação disponível para o projeto que foi realizado na disciplina de **I
         </td>
         <td style="padding-top: 50px;">
             Irwin Schmitt
-        </td>
-        <td style="padding-top: 50px;">
-            17/0105342
         </td>
         <td style="padding-top: 50px;">
             <a href="https://github.com/irwinschmitt" target="_blank">@irwinschmitt</a>
@@ -65,9 +55,6 @@ Documentação disponível para o projeto que foi realizado na disciplina de **I
             Lucas Lopes
         </td>
         <td style="padding-top: 50px;">
-            15/0137290
-        </td>
-        <td style="padding-top: 50px;">
             <a href="https://github.com/LucasPLopes" target="_blank">@LucasPLopes</a>
         </td>
     </tr>
@@ -79,9 +66,6 @@ Documentação disponível para o projeto que foi realizado na disciplina de **I
             Paulo Vitor
         </td>
         <td style="padding-top: 50px;">
-            19/0047968
-        </td>
-        <td style="padding-top: 50px;">
             <a href="https://github.com/PauloAbiAcl" target="_blank">@PauloAbiAcl</a>
         </td>
     </tr>
@@ -91,9 +75,6 @@ Documentação disponível para o projeto que foi realizado na disciplina de **I
         </td>
         <td style="padding-top: 50px;">
            Victor Rayan
-        </td>
-        <td style="padding-top: 50px;">
-           19/0044390
         </td>
         <td style="padding-top: 50px;">
             <a href="https://github.com/victor-rayan" target="_blank">@victor-rayan</a>
