@@ -72,6 +72,7 @@ mantendo todos do grupo focados no mesmo alvo.</p>
 ## Referências Bibliográficas
 Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J.
 (2021) Interação Humano-Computador e Experiência do Usuário.
+Site: thispersondoesnotexist.com
 
 ## Versionamento
 

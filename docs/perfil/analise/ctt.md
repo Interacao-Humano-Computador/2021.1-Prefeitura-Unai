@@ -29,7 +29,7 @@
 
 ## Resultados
 
-### Tarefa de consulta ao Dentran Veículos
+### Tarefa de consulta ao Detran Veículos
 <figure>
 <img align=center width="700" src="../../../img/ctt.png">
 <br>
@@ -45,3 +45,4 @@
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
 | 27/08/2021 |  2.0 | Criação da documento     | Deivid |
+|28/08/2021 |  2.0  | Revisão | Victor |
