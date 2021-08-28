@@ -11,12 +11,13 @@ nav:
     - Site Escolhido: planejamento/site.md
   - Processo de Design: processo.md
   - Análise de Requisitos:
-    - Questionario:  perfil/questionario.md
+    - Questionário:  perfil/questionario.md
     - Perfil de Usuário: perfil/perfil.md
     - Personas: perfil/personas.md
     - Análise de tarefas: 
       - HTA:  perfil/analise/hta.md
       - CTT:  perfil/analise/ctt.md
       - KLM:  perfil/analise/klm.md
+      - CMN-GOMS:  perfil/analise/cmn.md
   - Apresentações: apresentacoes/15_08_2021.md
   

@@ -69,9 +69,14 @@ mantendo todos do grupo focados no mesmo alvo.</p>
 | Tarefas: | Abrir uma solicitação de serviços em relação aos buracos em sua rua |
 | Expectativas: | Ter facilidade ao executar a tarefa, pois nunca utilizou o site para abrir uma solicitação |
 
+## Referências Bibliográficas
+Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J.
+(2021) Interação Humano-Computador e Experiência do Usuário.
+
 ## Versionamento
 
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
 | 26/08/2021 |  2.0 | Criação da página  | Deivid Carvalho, Victor Rayan e Paulo Vitor |
 | 26/08/2021 |  2.1 | Corrigindo a página  | Victor Rayan e Paulo Vitor |
+| 26/08/2021 |  2.2 | Revisão  | Paulo Vitor |

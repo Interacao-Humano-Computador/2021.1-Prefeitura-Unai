@@ -40,6 +40,6 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
-| 26/08/2021 |  1.0 | Criação da página     | Victor |
-| 27/08/2021 |  1.1 | Adicionando resultados     | Hugo|
-| 27/08/2021 |  1.2 | Revisão     | Paulo|
+| 26/08/2021 |  2.0 | Criação da página     | Victor |
+| 27/08/2021 |  2.1 | Adicionando resultados     | Hugo|
+| 27/08/2021 |  2.2 | Revisão     | Paulo|
