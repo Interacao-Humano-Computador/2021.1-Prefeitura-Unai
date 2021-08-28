@@ -1,3 +1,7 @@
+![UnB](../img/unb.jpg)
+
+# Site Escolhido
+
 <figure>
 <img align=center width="750" src="../../img/site_home.png">
 <br>
@@ -7,13 +11,12 @@
 
 
 ##  Introdução
-O site escolhido para ser feito uma avaliação foi o da Prefeitura de Unaí-MG,
+<p align="justify"> O site escolhido para ser feito uma avaliação foi o da Prefeitura de Unaí-MG,
 [acesso ao site](http://www.prefeituraunai.mg.gov.br/pmu/).O site cumpre um papel bem importante, tem
 como função informar os moradores da cidade sobre todas as notícias da cidade, informações
-sobre serviços, contatos das secretárias, tudo sobre a cidade.
+sobre serviços, contatos das secretárias, tudo sobre a cidade. </p>
 
-
-Para o planejamento desse site foi tomado como base o framework DECIDE.
+<p align="justify"> Para o planejamento desse site foi tomado como base o framework DECIDE. </p>
 
 ## Objetivos
 Os principais objetivos da avaliação são: Procurar possíveis erros na interação do usuário com

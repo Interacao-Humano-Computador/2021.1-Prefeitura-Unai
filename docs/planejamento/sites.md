@@ -1,3 +1,5 @@
+![UnB](../img/unb.jpg)
+
 # Sites Avaliados
 
 <p align="justify">O objetivo principal de dessa seção expor as sugestões de sites escolhidos pelos membros da equipe de forma a escolher o melhor a ser usado durante o estudo de interação humano-computador, sendo os seguintes sugestionados:</p>
