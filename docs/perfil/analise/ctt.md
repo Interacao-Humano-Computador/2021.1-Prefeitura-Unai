@@ -1,3 +1,5 @@
+![UnB](../../img/unb.jpg)
+
 # Árvores de Tarefas Concorrentes (CTT)
 
 ## Objetivos
@@ -9,7 +11,7 @@
 - **Tarefas abstratas**: que não são tarefas em si, mas uma representação de tarefas que auxilie a decomposição.
 
 <figure>
-<img align=center width="700" src="../../img/tiposctt.png">
+<img align=center width="700" src="../../../img/tiposctt.png">
 <br>
 <figcaption>Figura 2 - Tipos de tarefas CTT, retirado de [1].</a></figcaption>
 </figure>
@@ -29,7 +31,7 @@
 
 ### Tarefa de consulta ao Dentran Veículos
 <figure>
-<img align=center width="700" src="../../img/ctt.png">
+<img align=center width="700" src="../../../img/ctt.png">
 <br>
 <figcaption>Figura 1 - Diagrama CTT, feito no LucidChart por Deivid.</a></figcaption>
 </figure>

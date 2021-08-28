@@ -1,4 +1,4 @@
-![UnB](../img/unb.jpg)
+![UnB](../../img/unb.jpg)
 
 # Análise de tarefas
 
@@ -22,7 +22,12 @@ auxiliar na identificação de problemas de desempenho. </p>
 
 
 ## Resultados
-<p align = "justify">A seguir estão apresentadas as análises das tarefas HTA: </p>
+<p align = "justify">A seguir estão apresentadas as análises das tarefas HTA:</p>
+<figure>
+<img align=center width="700" src="../../../img/hta_hugo.png">
+<br>
+<figcaption>Figura 1 - Diagrama HTA solicitação de iluminação pública.</a></figcaption>
+</figure>
         
 
 
@@ -36,3 +41,5 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
 | 26/08/2021 |  1.0 | Criação da página     | Victor |
+| 27/08/2021 |  1.1 | Adicionando resultados     | Hugo|
+| 27/08/2021 |  1.2 | Revisão     | Paulo|
