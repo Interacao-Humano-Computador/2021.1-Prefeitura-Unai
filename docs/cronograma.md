@@ -17,12 +17,19 @@
 
 |             Tarefa              |     Participante(s)       |Entrega|Entrega prevista|
 |:-------------------------------:|:-------------------------:|:-----:|:--------------:|
-|          Perfil de Usuário             | Deivid Carvalho        | 26/08 |     28/08      |
+|          Perfil de Usuário           |     Deivid Carvalho        | 26/08 |     28/08|      |
 |           Personas           |         Paulo Vitor       | 26/08 |     28/08      |
-|    Análise de tarefas     |         TODOS            | 26/08 |     28/08      |
+| HTA | Victor, Hugo | 27/08 | 28/08  |
+| CTT | Deivid | 27/08 | 28/08  |
+| KLM | Paulo, Victor | 27/08 | 28/08  |
+| CMN-GOMS | Irwin | 27/08 | 28/08  |
+| Questionário | Paulo, Victor | 27/08 | 28/08  |
+|Slide| Victor, Deivid, Irwin e Paulo | 28/08 | 28/08  |
+|Apresentação| Victor, Deivid, Irwin e Paulo | 28/08 | 28/08  | 
 
 ## Versionamento
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
 | 15/08/2021 |  1.0 | Criação da página     | Lucas |
 | 26/08/2021 |  2.0 | Atualização para segunda entrega   | Deivid Carvalho |
+| 28/08/2021 |  2.1 | Revisão e alteração de dados  | Todos |
