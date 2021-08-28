@@ -28,6 +28,7 @@
 **Suspenção/Retomada**: T1|>T2 especifica que T1 pode ser interrompida por T2 e é retomada do ponto em que parou assim que T2 Terminar.</p>
 
 ## Resultados
+
 ### Tarefa de consulta ao Dentran Veículos
 <figure>
 <img align=center width="700" src="../../../img/ctt.png">
