@@ -26,6 +26,16 @@ auxiliar na identificação de problemas de desempenho. </p>
 <br>
 <figcaption>Figura 1 - Diagrama HTA solicitação de iluminação pública.</a></figcaption>
 </figure>
+
+| Objetivos/Operações |Problemas/Recomendações|
+|:---------:|:----------:|
+|0. Solicitar serviço de iluminação pública </br> 1>2 |input: formulário com dados do usuário e seleção do serviço desejado|
+|1. Acessar o site da prefeitura de Unaí| ação: acessar o site: prefeituraunai.mg.gov.br|
+|2. Clicar na guia de serviços </br> 1+3|ação: clicar na guia de serviços ao cidadão|
+|3. Preencher os dados do usuário e selecionar serviço desejado|ação: preencher o formulário e selecionar iluminação pública|
+|4. Preencher o captcha|ação: preencher corretamente o captcha|
+|5. Enviar formulário|ação: clicar no botão de enviar formulário|
+<figcaption>Tabela HTA para a solicitação de iluminação pública.</a></figcaption>
         
 
 
@@ -41,3 +51,4 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 | 26/08/2021 |  2.0 | Criação da página     | Victor |
 | 27/08/2021 |  2.1 | Adicionando resultados     | Hugo|
 | 27/08/2021 |  2.2 | Revisão     | Paulo|
+| 28/08/2021 |  2.3 | Adição da tabela de HTA| Hugo|
