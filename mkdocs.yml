@@ -1,10 +1,12 @@
-site_name: Prefeitura de Unaí
+site_name: Prefeitura de Unaí - IHC 2021.1
 theme:
   name: material
   language: "pt"
+  logo: ../../img/logo.png
+  favicon: ../../img/logo.png
 
 nav:
-  - Home: index.md
+  - Início: index.md
   - Cronograma: cronograma.md
   - Planejamento:
     - Sites Avaliados: planejamento/sites.md

@@ -7,8 +7,8 @@
 |:-------------------------------:|:-------------------------:|:-----:|:--------------:|
 |              Wiki               | Lucas                      | 09/08 |     14/08      |
 |           Cronograma            |         Irwin             | 09/08 |     14/08      |
-|    Lista de sites avaliados     |         TODOS            | 09/08 |     14/08      |
-|Definição dos processos de design|     TODOS                 | 09/08 |     14/08      |
+|    Lista de sites avaliados     |         Todos            | 09/08 |     14/08      |
+|Definição dos processos de design|     Todos                 | 09/08 |     14/08      |
 |       Apresentação              | Todos                     | 09/08 |     15/08      |
 
 ## 2ª Entrega - Perfil, personas e análise de tarefas
@@ -25,7 +25,7 @@
 | CMN-GOMS | Irwin | 27/08 | 28/08  |
 | Questionário | Paulo, Victor | 27/08 | 28/08  |
 |Slide| Victor, Deivid, Irwin e Paulo | 28/08 | 28/08  |
-|Apresentação| Victor, Deivid, Irwin e Paulo | 28/08 | 28/08  | 
+|Apresentação| Todos | 28/08 | 28/08  | 
 
 ## Versionamento
 | Data |Versão|         Descrição          |       Autor      |
