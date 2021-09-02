@@ -21,6 +21,9 @@ nav:
       - CTT:  perfil/analise/ctt.md
       - KLM:  perfil/analise/klm.md
       - CMN-GOMS:  perfil/analise/cmn.md
-    - Características da Plataforma: perfil/analise/caracPlat.md
+    - Características da Plataforma: perfil/caracPlat.md
+    - Princípios e diretrizes do projeto: perfil/principios.md
+    - Metas de usabilidade: perfil/metasUsa.md
+    - Guia de estilo: perfil/guiaEstilo.md
   - Apresentações: apresentacoes/15_08_2021.md
   

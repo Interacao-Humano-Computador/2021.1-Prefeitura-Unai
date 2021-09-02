@@ -78,6 +78,6 @@ Site: thispersondoesnotexist.com
 
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
-| 26/08/2021 |  2.0 | Criação da página  | Deivid Carvalho, Victor Rayan e Paulo Vitor |
-| 26/08/2021 |  2.1 | Corrigindo a página  | Victor Rayan e Paulo Vitor |
-| 26/08/2021 |  2.2 | Revisão  | Paulo Vitor |
+| 26/08/2021 |  1.0 | Criação da página  | Deivid Carvalho, Victor Rayan e Paulo Vitor |
+| 26/08/2021 |  1.1 | Corrigindo a página  | Victor Rayan e Paulo Vitor |
+| 26/08/2021 |  1.2 | Revisão  | Paulo Vitor |

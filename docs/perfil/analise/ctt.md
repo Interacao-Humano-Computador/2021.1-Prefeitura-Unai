@@ -44,5 +44,5 @@
 ## Versionamento
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
-| 27/08/2021 |  2.0 | Criação da documento     | Deivid |
-|28/08/2021 |  2.0  | Revisão | Victor |
+| 27/08/2021 |  1.0 | Criação da documento     | Deivid |
+|28/08/2021 |  1.1  | Revisão | Victor |

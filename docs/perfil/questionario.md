@@ -67,4 +67,4 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
-| 27/08/2021 |  2.0 | Criação da página     | Paulo Vitor, Victor |
+| 27/08/2021 |  1.0 | Criação da página     | Paulo Vitor, Victor |

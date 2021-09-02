@@ -1,4 +1,4 @@
-![UnB](../../img/unb.jpg)
+![UnB](../img/unb.jpg)
 
 # Características da Plataforma
 
@@ -36,13 +36,13 @@ Já quando analisamos o desempenho da interface em ambiente mobile, o site apres
 ### Fotos de tela:
 
 <figure>
-<img align=center width="300" height="400" src="../../../img/mobile_unai1.jpeg">
+<img align=center width="300" height="400" src="../../img/mobile_unai1.jpeg">
 <br>
 </figure>
 <center>*Figura 1 - Página inicial da prefeitura em dispositivo móvel.*</center>
 
 <figure>
-<img align=center width="300" height="400" src="../../../img/mobile_unai2.jpeg">
+<img align=center width="300" height="400" src="../../img/mobile_unai2.jpeg">
 <br>
 </figure>
 <center>*Figura 2 - Página de editais de educação em dispositivo móvel.*</center>

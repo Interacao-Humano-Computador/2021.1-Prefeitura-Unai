@@ -28,4 +28,4 @@
 
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
-| 26/08/2021 |  2.0 | Criação da página     | Deivid Carvalho |
+| 26/08/2021 |  1.0 | Criação da página     | Deivid Carvalho |
