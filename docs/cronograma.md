@@ -27,9 +27,24 @@
 |Slide| Victor, Deivid, Irwin e Paulo | 28/08 | 28/08  |
 |Apresentação| Todos | 28/08 | 28/08  | 
 
+
+## 3ª Entrega - Análise de requisitos
+
+<p align = "justify">Realizado de 14/08 até 28/08.</p>
+
+|             Tarefa              |     Participante(s)       |Entrega|Entrega prevista|
+|:-------------------------------:|:-------------------------:|:-----:|:--------------:|
+|          Característica da plataforma           |     Hugo        | 02/09 |     04/09|      |
+|           Princípios e diretrizes do projeto          |         Victor e Paulo       | 03/09 |     04/09      |
+| Metas de Usabilidade | Deivid | 03/09 | 04/09  |
+| Guia de estilo | Irwin | 04/09 | 04/09  |
+|Slide| Todos | 04/08 | 04/08  |
+|Apresentação| Todos | 04/08 | 04/08  | 
+
 ## Versionamento
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
 | 15/08/2021 |  1.0 | Criação da página     | Lucas |
 | 26/08/2021 |  2.0 | Atualização para segunda entrega   | Deivid Carvalho |
 | 28/08/2021 |  2.1 | Revisão e alteração de dados  | Todos |
+| 04/09/2021 |  3.0 | Criação do Terceiro cronograma | Deivid e Victor |
