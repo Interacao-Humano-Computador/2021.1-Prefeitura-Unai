@@ -58,7 +58,7 @@ Seguindo o objetivo de criar algo padronizado para o usuário, foram escolhidos 
 
 <p align="justify">
 As cores foram escolhidas baseando-se nas cores já utilizadas no site, adicionando padrões de cores amplamente utilizados.
-<p>
+</p>
 
 <figure>
     <img align=center src="../../img/guia-de-estilo/colors.png">
