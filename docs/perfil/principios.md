@@ -9,7 +9,7 @@
 <p align = "justify">Os princípios que serão utilizado pela equipe serão os apontados por Norman (1988).
 Esses são comumente utilizados em IHC e giram em torno dos seguintes tópicos:</p>
 * Correspondência com as expectativas dos usuários
-* Equilíibrio entre controle e liberdade do usuário
+* Equilíbrio entre controle e liberdade do usuário
 * Simplicidade nas estruturas das tarefas
 * Promovendo a eficiência do usuário
 * Consistência e padronização

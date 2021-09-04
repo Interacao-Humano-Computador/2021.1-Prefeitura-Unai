@@ -38,8 +38,8 @@
 |           Princípios e diretrizes do projeto          |         Victor e Paulo       | 03/09 |     04/09      |
 | Metas de Usabilidade | Deivid | 03/09 | 04/09  |
 | Guia de estilo | Irwin | 04/09 | 04/09  |
-|Slide| Todos | 04/08 | 04/08  |
-|Apresentação| Todos | 04/08 | 04/08  | 
+|Slide| Todos | 04/09 | 04/09  |
+|Apresentação| Todos | 04/09 | 04/09  | 
 
 ## Versionamento
 | Data |Versão|         Descrição          |       Autor      |
