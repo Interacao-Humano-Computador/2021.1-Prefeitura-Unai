@@ -31,7 +31,7 @@ Foi escolhida a fonte Poppins pois é utilizada em conjunto com o Material Desig
 <br/>
 
 <figure>
-    <img align=center src="../../img/guia-de-estilo/typography.png/">
+    <img align=center src="../../img/guia-de-estilo/typography.png">
     <br/>
     <figcaption>
     Figura 2 - Fonte Roboto. Disponível no <a href="https://fonts.google.com/specimen/Poppins.">link</a>.
