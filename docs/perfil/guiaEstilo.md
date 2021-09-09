@@ -8,6 +8,10 @@
 Segundo Barbosa (2021), um guia de estilo é um documento que reúne os princípios e as diretrizes adotados em um projeto de forma que sejam efetivamente incorporados ao produto final.
 </p>
 
+<p align="justify">
+Em nosso Guia de Estilo, definimos elementos que serão utilizados para a construção de todo o site, como layout, tipografia, símbolos, cores e componentes.
+</p>
+
 ## Grid
 
 <p align="justify">
@@ -106,4 +110,4 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 |    Data    | Versão |                    Descrição                    |     Autor     |
 | :--------: | :----: | :---------------------------------------------: | :-----------: |
 | 04/09/2021 |  1.0   | Definição, grid, tipografia, simbolismo e cores | Irwin Schmitt |
-| 08/09/2021 |  2.0   |               Layout e correções                | Irwin Schmitt |
+| 08/09/2021 |  2.0   |          Layout, correções e melhorias          | Irwin Schmitt |
