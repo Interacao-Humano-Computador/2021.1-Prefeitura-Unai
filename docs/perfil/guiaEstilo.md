@@ -22,10 +22,24 @@ A disposição dos elementos na interface será organizada através de um grid c
     </figcaption>
 </figure>
 
+## Layout
+
+<p align="justify">
+Seguindo o grid, o layout deve seguir o modelo com logotipo, acesso rápido, menu, conteúdo e notícias, como mostrado abaixo.
+</p>
+
+<figure>
+    <img align=center src="../../img/guia-de-estilo/layout.png"/>
+    <br/>
+    <figcaption>
+    Figura 2 - Sistema de grid com 12 colunas.
+    </figcaption>
+</figure>
+
 ## Tipografia
 
 <p align="justify">
-Foi escolhida a fonte Poppins pois é utilizada em conjunto com o Material Design, um design system amplamente utilizado.
+Foi escolhida a fonte Poppins pois é utilizada em conjunto com o Material Design, um design system mais popular.
 </p>
 
 <br/>
@@ -34,7 +48,7 @@ Foi escolhida a fonte Poppins pois é utilizada em conjunto com o Material Desig
     <img align=center src="../../img/guia-de-estilo/typography.png">
     <br/>
     <figcaption>
-    Figura 2 - Fonte Roboto. Disponível no <a href="https://fonts.google.com/specimen/Poppins.">link</a>.
+    Figura 3 - Fonte Roboto. Disponível no <a href="https://fonts.google.com/specimen/Poppins.">link</a>.
     </figcaption>
 </figure>
 
@@ -50,7 +64,7 @@ Seguindo o objetivo de criar algo padronizado para o usuário, foram escolhidos 
     <img align=center src="../../img/guia-de-estilo/icons.png">
     <br>
     <figcaption>
-    Figura 3 - Material Icons. Disponível no <a href="https://fonts.google.com/icons">link</a>.
+    Figura 4 - Material Icons. Disponível no <a href="https://fonts.google.com/icons">link</a>.
     </figcaption>
 </figure>
 
@@ -64,7 +78,21 @@ As cores foram escolhidas baseando-se nas cores já utilizadas no site, adiciona
     <img align=center src="../../img/guia-de-estilo/colors.png">
     <br>
     <figcaption>
-    Figura 4 - Cores utilizadas.
+    Figura 5 - Cores utilizadas.
+    </figcaption>
+</figure>
+
+## Componentes
+
+<p align="justify">
+Os componentes foram pensados utilizando a tipografia, os símbolos e as cores previamente definidos.
+</p>
+
+<figure>
+    <img align=center src="../../img/guia-de-estilo/components.png">
+    <br>
+    <figcaption>
+    Figura 8 - Componentes.
     </figcaption>
 </figure>
 
@@ -78,3 +106,4 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 |    Data    | Versão |                    Descrição                    |     Autor     |
 | :--------: | :----: | :---------------------------------------------: | :-----------: |
 | 04/09/2021 |  1.0   | Definição, grid, tipografia, simbolismo e cores | Irwin Schmitt |
+| 08/09/2021 |  2.0   |               Layout e correções                | Irwin Schmitt |
