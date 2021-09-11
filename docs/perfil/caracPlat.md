@@ -8,7 +8,7 @@ A aplicação desenvolvida pela Prefeitura de Unaí de do tipo Web Portal. O por
 
 ## Compatibilidade
 
-<p align = "justify">A aplicação é compatível com todos os navegadores web do mercado do tipo desktop. Não possui nenhuma adaptação para o mobile, o que torna o site extremamente difícil de ser acessado via dispositivos móveis, uma vez que sem adaptações, o site fica em uma versão de ícones e fontes pequenas. </p>
+<p align = "justify">A aplicação é compatível com os principais navegadores web do mercado do tipo desktop, foram testados os seguintes navegadores: Google Chrome, Safari e Firefox. O site não possui nenhuma adaptação para o mobile, o que torna o site extremamente difícil de ser acessado via dispositivos móveis, uma vez que sem adaptações, o site fica em uma versão de ícones e fontes pequenas. </p>
 
 
 ## Funcionalidades
@@ -29,7 +29,7 @@ A aplicação desenvolvida pela Prefeitura de Unaí de do tipo Web Portal. O por
 ## Características Negativas
 
 <p align="justify">
-Quando tratamos de desempenho da interface, o site corresponde as expectativas em abiente desktop.
+Quando tratamos de desempenho da interface, o site corresponde as expectativas em abiente desktop nos navegadores testados.
 Já quando analisamos o desempenho da interface em ambiente mobile, o site apresenta-se extremamente ruim de ser utilizado, as fontes ficam extremamente pequenas e o clique em botões é uma tarefa difícil.
 </p>
 
@@ -57,3 +57,4 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
 | 02/09/2021 |  1.0 | Criação da página     | Hugo |
+| 11/09/2021 |  1.1 | Adequações propostas pelo professor     | Hugo |
