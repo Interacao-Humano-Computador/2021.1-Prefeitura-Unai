@@ -28,5 +28,7 @@ nav:
   - Design, avaliação e desenvolvimento:
     - Análise de Tarefas: 
       - Planejamento: designAvaliacaoDesenvolv/analiseDeTarefas/planejamento.md
+    - StoryBoard:
+      - Planejamento: designAvaliacaoDesenvolv/storyboard/planejamentoStory.md
   - Apresentações: apresentacoes/15_08_2021.md
   
