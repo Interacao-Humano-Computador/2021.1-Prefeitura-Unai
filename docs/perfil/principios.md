@@ -1,6 +1,6 @@
 ![UnB](../img/unb.jpg)
 
-# Princípios e Diretrizes
+# Princípios de projeto
 
 ## 1. Introdução
 <p align = "justify">Os princípios gerais para um projeto são objetivos gerais e de alto nível que devem ser sempre mantidos em mente durante o desenvolvimento e que os usuários possam apreender rapidamente e sem dificuldade. Porém, estes princípios não devem jamais substituir as outras atividades de análise, design e avaliação. Embora os princípios podem ser utilizados como auxílio ao design não substituem o processo de avaliação.</p>
