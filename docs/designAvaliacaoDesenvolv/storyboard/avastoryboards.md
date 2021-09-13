@@ -36,8 +36,28 @@ Fonte: Autor</p>
 <p align = "center"  style="color:grey">Tabela 1: Tabela do storyboard Acessar o Detran.</br>
 Fonte: Autor</p>
 
-## 2.1 Storyboard: 
+## 2.2 Storyboard: Emissão de IPTU
 
+<p align = "justify"> O Storyboard (Figura 3) representa <b> como acontece </b> a tarefa de Emissão de IPTU. </p>
+
+<a href="../../../img/emitirIPTU.png" title="Clique aqui para ampliar" ><img src="../../../img/emitirIPTU.png"/></a>
+<p align = "center" style="color:grey">Figura 3: Storyboard como é a tarefa acessar o Detran</br>
+Fonte: Autor Paulo Vitor</p>
+
+
+
+|   Atividade   |  Tarefa  |    Definição    |
+| :---         |     :---:      |          :--- |
+| <b>Preparo</b>   | Definição das personas envolvidas | Persona: Júlia Leitão |
+|           | Definição do ambiente do Storyboard | Cotidiano |
+|  | Definição da tarefa a ser realizada | Emitir guia de IPTU |
+|<b>Sequência</b> |    Definição dos passos para realizar a tarefa|  1. Acessar "IPTU"<br>2. Acessar "Emitir guia online"<br>3. Acessar "Preencher os dados do usuário"<br>4."Clicar em emitir"|
+|            |  O que leva a pessoa a usar a funcionalidade | Necessidade de emitir os débitos de IPTU, para consulta ou pagamento. |
+|            |  Como a tarefa será ilustrada   | Júlia Leitão, se lembra que precisa efetuar o pagamento da primeira via do IPTU. Sendo assim, elA busca o site da prefeitura para ver os débitos pendentes para pagamento atráves do site da prefeitura de Unaí     |
+|<b>Satisfação</b> | Motivação principal de quem utiliza a funcionalidade   | Conseguir emitir uma guia online do IPTU de maneira fácil, para pagar ou consultar o imposto Predial e Territorial Urbano. |
+|             | Tarefas que precisam ser implementadas | Deve ser mais rápido o acesso até a emissão do IPTU, sem ter que acessar várias páginas para realizar a tarefa |
+<p align = "center"  style="color:grey">Tabela 1: Tabela do storyboard Emitir IPTU.</br>
+Fonte: Autor</p>
 
 
 
@@ -47,9 +67,12 @@ Fonte: Autor</p>
 |:----:|:------:|:-------------------------------:|:-----------:|
 |12/09 |1.0     |     Criação do Documento        | Victor Rayan |
 |12/09 |2.0    |     Criação do Storyboard 2.1     | Victor Rayan |
+|12/09 |3.0 | Criação do Storyboard 2.2 | Paulo Victor |
+|12/09 |3.0 | Criação da Tabela do Storyboard 2.2 | Victor Rayan |
 
 
 ## Referências
 
 ##### Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 ##### <a href="https://www.storyboardthat.com/pt">SITE: https://www.storyboardthat.com/pt</a>
+##### Livro: PREECE, J.; ROGERS, Y.; SHARP, E.; BENYON, D.; HOLLAND, S.;CAREY, T. (1994) “Human-Computer Interaction”. 
