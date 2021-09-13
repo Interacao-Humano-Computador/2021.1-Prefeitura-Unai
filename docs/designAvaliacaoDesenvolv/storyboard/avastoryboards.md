@@ -56,7 +56,7 @@ Fonte: Autor</p>
 |            |  Como a tarefa será ilustrada   | Júlia Leitão, se lembra que precisa efetuar o pagamento da primeira via do IPTU. Sendo assim, elA busca o site da prefeitura para ver os débitos pendentes para pagamento atráves do site da prefeitura de Unaí     |
 |<b>Satisfação</b> | Motivação principal de quem utiliza a funcionalidade   | Conseguir emitir uma guia online do IPTU de maneira fácil, para pagar ou consultar o imposto Predial e Territorial Urbano. |
 |             | Tarefas que precisam ser implementadas | Deve ser mais rápido o acesso até a emissão do IPTU, sem ter que acessar várias páginas para realizar a tarefa |
-<p align = "center"  style="color:grey">Tabela 1: Tabela do storyboard Emitir IPTU.</br>
+<p align = "center"  style="color:grey">Tabela 2: Tabela do storyboard Emitir IPTU.</br>
 Fonte: Autor</p>
 
 
