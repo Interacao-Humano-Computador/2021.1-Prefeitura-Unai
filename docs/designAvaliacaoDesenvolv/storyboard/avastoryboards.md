@@ -40,9 +40,9 @@ Fonte: Autor</p>
 
 <p align = "justify"> O Storyboard (Figura 3) representa <b> como acontece </b> a tarefa de Emissão de IPTU. </p>
 
-<a href="../../../img/emitirIPTU.png" title="Clique aqui para ampliar" ><img src="../../../img/emitirIPTU.png"/></a>
-<p align = "center" style="color:grey">Figura 3: Storyboard como é a tarefa acessar o Detran</br>
-Fonte: Autor Paulo Vitor</p>
+<a href="../../../img/storyjulia.png" title="Clique aqui para ampliar" ><img src="../../../img/storyjulia.png"/></a>
+<p align = "center" style="color:grey">Figura 3: Storyboard como é a tarefa emitir IPTU</br>
+Fonte: Autor</p>
 
 
 
@@ -51,7 +51,7 @@ Fonte: Autor Paulo Vitor</p>
 | <b>Preparo</b>   | Definição das personas envolvidas | Persona: Júlia Leitão |
 |           | Definição do ambiente do Storyboard | Cotidiano |
 |  | Definição da tarefa a ser realizada | Emitir guia de IPTU |
-|<b>Sequência</b> |    Definição dos passos para realizar a tarefa|  1. Acessar "IPTU"<br>2. Acessar "Emitir guia online"<br>3. Acessar "Preencher os dados do usuário"<br>4."Clicar em emitir"|
+|<b>Sequência</b> |    Definição dos passos para realizar a tarefa|  1. Acessar "IPTU"<br>2. Acessar "Emitir guia online"<br>3. Acessar "Preencher os dados do usuário"<br>4."Clicar em buscar"|
 |            |  O que leva a pessoa a usar a funcionalidade | Necessidade de emitir os débitos de IPTU, para consulta ou pagamento. |
 |            |  Como a tarefa será ilustrada   | Júlia Leitão, se lembra que precisa efetuar o pagamento da primeira via do IPTU. Sendo assim, elA busca o site da prefeitura para ver os débitos pendentes para pagamento atráves do site da prefeitura de Unaí     |
 |<b>Satisfação</b> | Motivação principal de quem utiliza a funcionalidade   | Conseguir emitir uma guia online do IPTU de maneira fácil, para pagar ou consultar o imposto Predial e Territorial Urbano. |
@@ -66,8 +66,9 @@ Fonte: Autor</p>
 | Data | Versão |           Descrição             |    Autor    |
 |:----:|:------:|:-------------------------------:|:-----------:|
 |12/09 |1.0     |     Criação do Documento        | Victor Rayan |
-|12/09 |2.0    |     Criação do Storyboard 2.1     | Victor Rayan |
-|12/09 |3.0 | Criação do Storyboard 2.2 | Paulo Victor |
+|12/09 |2.0    |     Criação do Storyboard 2.1     | Victor Rayan e Deivid |
+|12/09 |2.0 |Criação da Tabela do Storyboard 2.1 | Victor Rayan |
+|12/09 |3.0 | Criação do Storyboard 2.2 | Paulo e Victor |
 |12/09 |3.0 | Criação da Tabela do Storyboard 2.2 | Victor Rayan |
 
 
