@@ -1,4 +1,4 @@
-]![UnB](../../img/unb.jpg)
+![UnB](../../img/unb.jpg)
 
 # Planejamento da análise de tarefas
 
