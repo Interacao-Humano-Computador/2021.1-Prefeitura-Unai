@@ -17,8 +17,8 @@
 <p align = "justify">Realizado de 14/08 até 28/08.</p>
 
 |      Tarefa       |        Participante(s)        | Entrega | Entrega prevista |
-| :---------------: | :---------------------------: | :-----: | :--------------: | --- |
-| Perfil de Usuário |        Deivid Carvalho        |  26/08  |      28/08       |     |
+| :---------------: | :---------------------------: | :-----: | :--------------: |
+| Perfil de Usuário |        Deivid Carvalho        |  26/08  |      28/08       |
 |     Personas      |          Paulo Vitor          |  26/08  |      28/08       |
 |        HTA        |         Victor, Hugo          |  27/08  |      28/08       |
 |        CTT        |            Deivid             |  27/08  |      28/08       |
@@ -33,8 +33,8 @@
 <p align = "justify">Realizado de 02/09 até 04/08.</p>
 
 |               Tarefa               | Participante(s) | Entrega | Entrega prevista |
-| :--------------------------------: | :-------------: | :-----: | :--------------: | --- |
-|    Característica da plataforma    |      Hugo       |  02/09  |      04/09       |     |
+| :--------------------------------: | :-------------: | :-----: | :--------------: |
+|    Característica da plataforma    |      Hugo       |  02/09  |      04/09       |
 | Princípios e diretrizes do projeto | Victor e Paulo  |  03/09  |      04/09       |
 |        Metas de Usabilidade        |     Deivid      |  03/09  |      04/09       |
 |           Guia de estilo           |      Irwin      |  04/09  |      04/09       |
