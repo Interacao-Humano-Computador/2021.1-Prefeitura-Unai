@@ -19,9 +19,13 @@ Dada as funcionalidades definidas na fase de análises de requisitos, será vali
 <p align = "justify"><b>Objetivo</b>: Verificar se o site da prefeitura de Unaí pode acessar a funcionalidade de notícias no menor tempo possível.</p>
 <p align = "justify"><b>Pergunta a ser respondida</b>: O site da prefeitura de Unaí permite acessar informações sobre Unaí de forma atualizada e sem demora nas suas buscas?</p>
 
-## 3. Resultados
-<p align = "justify">XXX</p>
+## 3. Relato dos Resultados
+*<p align = "justify">informar os dados coletados</p>
+*<p align = "justify">Relatar interpretação dos dados encontrados</p>
+*<p align = "justify">Lista dos problemas encontrados</p>
+*<p align = "justify">Se necessário, planejar um reprojeto do sistema</p>
 
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
 | 12/09/2021 |  3.0 | Criação da página    | Deivid Carvalho |
+| 13/09/2021 |  3.1 | Alteração dos relato dos Resultados    | Deivid Carvalho |
