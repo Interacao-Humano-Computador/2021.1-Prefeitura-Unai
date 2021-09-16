@@ -14,7 +14,7 @@
 
 ## 3. Metodologia
 
-<p align = "justify"> A técnica utilizada para coletar os dados será a realização de entrevistas, pertencente aos métodos de investigação, que consiste em uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informações sobre o participante. Porém devido a dificuldade de encontrar moradores da cidade de Unaí que se enquadre ao perfil de usuário, serão aplicadas entrevistas com duas de nossas personas já definidas no projeto, elas serão: Arnaldo Filho (Persona 1) e Rômulo Judas (Persona 4).</p>
+<p align = "justify"> A técnica utilizada para coletar os dados será a realização de entrevistas, pertencente aos métodos de investigação, que consiste em uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informações sobre o participante. Porém devido a dificuldade de encontrar moradores da cidade de Unaí que se enquadre ao perfil de usuário, serão aplicadas entrevistas com nossas personas já definidas no projeto, elas serão: Arnaldo Filho (Persona 1), Julia Leitão(Persona 2) e Rômulo Judas (Persona 4).</p>
 
 ## 4. Entrevista
 
