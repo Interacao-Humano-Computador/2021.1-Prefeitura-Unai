@@ -32,5 +32,7 @@ nav:
     - StoryBoard:
       - Planejamento: designAvaliacaoDesenvolv/storyboard/planejamentoStory.md
       - Storyboards: designAvaliacaoDesenvolv/storyboard/avastoryboards.md
+    - Protótipo em papel:
+      - Planejamento:  designAvaliacaoDesenvolv/papel/planejamentopapel.md 
   - Apresentações: apresentacoes/15_08_2021.md
   
