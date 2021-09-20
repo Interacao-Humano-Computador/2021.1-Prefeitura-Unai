@@ -52,6 +52,17 @@
 |    Planejamento dos storyboards    |     Deivid      |  12/09  |      13/09       |
 |            Storyboards             | Victor e Deivid |  12/09  |      13/09       |
 
+## 5ª Entrega - Relato dos resultados da avaliação do storyboard e análise de tarefas e planejamento da Prototipação em Papel
+
+|               Tarefa               | Participante(s) | Entrega | Entrega prevista |
+| :--------------------------------: | :-------------: | :-----: | :--------------: |
+| Relato dos resultados da análise de tarefas |  Hugo e Irwin   |  19/09  |      20/09       |
+|       Relato dos resultados do Storyboard 1      |      Paulo e Devid      |  19/09  |      20/09       |
+|    Relato dos resultados do Storyboard  2    |     Paulo e Devid      |  19/09  |      20/09       |
+|      planejamento da Prototipação em Papel            | Victor  |  19/09  |      20/09       |
+|Apresentação | Todos | 19/09| 20/09|
+
+
 ## Versionamento
 
 |    Data    | Versão |            Descrição             |      Autor      |
@@ -59,5 +70,6 @@
 | 15/08/2021 |  1.0   |        Criação da página         |      Lucas      |
 | 26/08/2021 |  2.0   | Atualização para segunda entrega | Deivid Carvalho |
 | 28/08/2021 |  3.0   |   Revisão e alteração de dados   |      Todos      |
-| 04/09/2021 |  4.0   |  Criação do Terceiro cronograma  | Deivid e Victor |
+| 04/09/2021 |  4.0   |  Criação do 3º cronograma  | Deivid e Victor |
 | 13/09/2021 |  5.0   |     Criação do 4º cronograma     |      Irwin      |
+| 20/09/2021 | 6.0| Criação do 5º cronograma  |  Victor  |

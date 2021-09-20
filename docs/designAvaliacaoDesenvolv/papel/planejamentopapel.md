@@ -9,7 +9,7 @@ A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento
 </p>
 
 ## 2. Metodologia
-<p align = "justify">O planejamento de avaliação do protótipação em papel foi baseada no  livro Interação Humano-Computador de Simone Barbosa e Bruno Silva. Dessa forma, para realização do metódo será seguido as seguintes atividades: <br> - Preparação <br> - Coleta e interpretação de dados <br> - Consolidação dos resultados <br> - Relato dos resultados.</p>
+<p align = "justify">O planejamento de avaliação do protótipação em papel foi baseada no  livro Interação Humano-Computador de Simone Barbosa e Bruno Silva. Dessa forma, para realização do metódo será por meio de uma <b>Entrevista,</b> seguindo as seguintes atividades: <br> - Preparação <br> - Coleta e interpretação de dados <br> - Consolidação dos resultados <br> - Relato dos resultados.</p>
 
 ## 3. Avaliação
 <p align = "justify">Para a execução do método de prototipação em papel será seguido as informações contídas no Capítulo 10 do livro Interação Humano-Computador de Simone Barbosa e Bruno Silva.
@@ -20,13 +20,16 @@ A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento
 <p align = "justify"><b>Tarefa 1:</b> Acessar o Detran através de links úteis.<br></p>
 <p align = "justify"><b>Tarefa 2:</b> Emissão de IPTU.</p>
 <p align = "justify"> <b>Definição dos participantes: </b></p>
-<p align = "justify">Os dois participantes que farão parte da avaliação, serão levados em consideração o perfil de usuário.<br>
+<p align = "justify">Os dois participantes que farão parte da avaliação, serão escolhidos levando em consideração o perfil de usuário.<br>
 Participante 1: (Realizar tarefa 1): Morador de Unaí, idade 32 anos.<br>
 Participante 2: (Realizar tarefa 2): Morador de Unaí, idade 26 anos.</p>
 
 
 ### 3.2 Coleta de dados e Interpretação
-<p align = "justify">Para a coleta e interpretação de dados, primeiramente, será o apresentado aos participantes o termo de consentimento. Caso o participante aceite o termo, será dado sequência na avaliação. </p>
+<p align = "justify">Para a coleta e interpretação de dados, primeiramente, será o apresentado aos participantes o termo de consentimento . Caso o participante aceite o termo, será dado sequência na avaliação. </p>
+
+<a href="../../../img/termo.jpg">Termo de Consentimento</a>
+
 <p align = "justify">Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador </p>
 <b>Tarefa 1:</b> 
 <p align = "justify">O participante responsável por essa tarefa deverá Acessar o Detran atráves de links úteis, onde será verificado se o foi possível realizar a tarefa sem nunhum problema e os passos que o participante realizou. </p>
