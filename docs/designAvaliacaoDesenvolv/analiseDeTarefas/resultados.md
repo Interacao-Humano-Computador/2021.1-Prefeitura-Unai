@@ -9,7 +9,7 @@ No documento serão apresentado os resultados da compreensão das atividades dos
 ## 2. Preparação
 
 <p align="justify">
-As seguintes atividades foram levadas em conta para o relato dos resultados.
+As seguintes atividades foram levadas em conta para o relato dos resupytltados.
 </p>
 
 <ul>
@@ -41,43 +41,44 @@ Com o uso do método de percurso cognitivo, 4 perguntas são feitas sobre cada t
 
 ### 4.1 Solicitar iluminação pública
 
-|                     Operações                      | P1  |        P2        | P3  |                           P4                           |
-| :------------------------------------------------: | :-: | :--------------: | :-: | :----------------------------------------------------: |
-| 0. Mover o mouse para o botão "Solicitar serviços" | Sim | Sim, com demora. | Sim | Não, não há feedback ao arrastar o mouse para o botão. |
-|      1. Clicar no botão "Solicitar serviços"       | Sim |       Sim        | Sim |                          Sim                           |
-|         2. Preencher os dados solicitados          | Sim |       Sim        | Sim |                          Sim                           |
-|               3. Preencher o CAPTCHA               | Sim |       Sim        | Sim |                          Sim                           |
-|       4. Mover o mouse para o botão "Enviar"       | Sim |       Sim        | Sim | Não, não há feedback ao arrastar o mouse para o botão. |
-|            5. Clicar no botão "Enviar"             | Sim |       Sim        | Sim |                          Sim                           |
+|                     Operações                      | P1  |                                                    P2                                                     | P3  |                           P4                           |
+| :------------------------------------------------: | :-: | :-------------------------------------------------------------------------------------------------------: | :-: | :----------------------------------------------------: |
+| 0. Mover o mouse para o botão "Solicitar serviços" | Sim | Sim, com demora. Com a quantidade de botões é difícil identificar onde está a opção que o usuário deseja. | Sim | Não, não há feedback ao arrastar o mouse para o botão. |
+|      1. Clicar no botão "Solicitar serviços"       | Sim |                                                    Sim                                                    | Sim |                          Sim                           |
+|         2. Preencher os dados solicitados          | Sim |                                                    Sim                                                    | Sim |                          Sim                           |
+|               3. Preencher o CAPTCHA               | Sim |                                                    Sim                                                    | Sim |                          Sim                           |
+|       4. Mover o mouse para o botão "Enviar"       | Sim |                                                    Sim                                                    | Sim | Não, não há feedback ao arrastar o mouse para o botão. |
+|            5. Clicar no botão "Enviar"             | Sim |                                                    Sim                                                    | Sim |                          Sim                           |
 
  <center>*Tabela 1. Percurso cognitivo para a solicitar iluminação pública.*</center>
 
 ### 4.2 Emitir guia de IPTU
 
-|                           Métodos                           | P1  |        P2        | P3  |                          P4                         
+| Métodos | P1 | P2 | P3 | P4  
  |
 | :---------------------------------------------------------: | :-: | :--------------: | :-: | :---------------------------------------------------: |
-|        0. Mover o mouse para o botão no botão "IPTU"        | Sim | Sim, com demora. | Sim | Não, não há feedback ao arrastar o mouse para o botão |
-|                  1. Clicar no botão "IPTU"                  | Sim |       Sim        | Sim | Não, não há feedback ao arrastar o mouse para o botão |
-| 2. Mover o mouse para o botão no botão "Emitir guia online" | Sim |       Sim        | Sim | Não, não há feedback ao arrastar o mouse para o botão |
-|           3. Clicar no botão "Emitir guia online"           | Sim |       Sim        | Sim |                          Sim                          |
-|              4. Preencher os dados solicitados              | Sim |       Sim        | Sim |                          Sim                          |
-|                   4. Preencher o CAPTCHA                    | Sim |       Sim        | Sim |                          Sim                          |
-|           5. Mover o mouse para o botão "Buscar"            | Sim |       Sim        | Sim | Não, não há feedback ao arrastar o mouse para o botão |
-|                 6. Clicar no botão "Buscar"                 | Sim |       Sim        | Sim |                          Sim                          |
+| 0. Mover o mouse para o botão no botão "IPTU" | Sim | Sim, com demora. Com a quantidade de botões é difícil identificar onde está a opção que o usuário deseja. | Sim | Não, não há feedback ao arrastar o mouse para o botão |
+| 1. Clicar no botão "IPTU" | Sim | Sim | Sim | Não, não há feedback ao arrastar o mouse para o botão |
+| 2. Mover o mouse para o botão no botão "Emitir guia online" | Sim | Sim | Sim | Não, não há feedback ao arrastar o mouse para o botão |
+| 3. Clicar no botão "Emitir guia online" | Sim | Sim | Sim | Sim |
+| 4. Preencher os dados solicitados | Sim | Sim | Sim | Sim |
+| 5. Preencher o CAPTCHA | Sim | Sim | Sim | Sim |
+| 6. Mover o mouse para o botão "Buscar" | Sim | Sim | Sim | Não, não há feedback ao arrastar o mouse para o botão |
+| 7. Clicar no botão "Buscar" | Sim | Sim | Sim | Sim |
 
- <center>*Tabela 1. Percurso cognitivo para a solicitar iluminação pública.*</center>
+ <center>*Tabela 2. Percurso cognitivo para a emitir guia de IPTU.*</center>
 
-Com a quantidade de botões é difícil identificar onde está a opção que o usuário deseja.
+## 5. Conclusão e relato dos resultados
 
-## 4. Referências Bibliográficas
+O maior tempo gasto para o usuário realizar uma tarefa é encontrar onde pode acessar essa tarefa. A interface do site é poluída, possuindo diversos menus e "acessos rápidos" que acabam não sendo rápidos, dada a quantidade de elementos.
+
+## 6. Referências Bibliográficas
 
 Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J.
 (2021) Interação Humano-Computador e Experiência do Usuário.
 
-## 5. Versionamento
+## 7. Versionamento
 
-|    Data    | Versão |       Descrição        | Autor |
-| :--------: | :----: | :--------------------: | :---: |
-| 18/09/2021 |  1.0   |   Criação da página    | Hugo  |
-| 18/09/2021 |  1.1   | Adição das entrevistas | Hugo  |
+|    Data    | Versão |            Descrição            |     Autor     |
+| :--------: | :----: | :-----------------------------: | :-----------: |
+| 20/09/2021 |  1.0   | Tarefas e relato dos resultados | Irwin Schmitt |
