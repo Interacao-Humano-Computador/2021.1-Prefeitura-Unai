@@ -78,7 +78,7 @@
 |   07   | Teve facilidade de encontrar o que desejava?                                                                                              | ()Sim</br> (**X**)Não </br>() Mais ou menos                                                                                                                                                                                                                  |
 |   08   | Você notou diferenças entre a tarefa realizada e a tarefa representada nesse diagrama de tarefas? Se sim, o que você sugere como mudança? | ()Sim</br> (**X**)Não </br>                                                                                                                                                                                                                                  |
 
-#### Entrevista 5 - Selzo Mussoumano
+#### Entrevista 5 - Antônio Machado
 
 
 | Número | Pergunta                                                                                                                                  | Opções de Resposta                                                                                                                                                                                                                                      |
