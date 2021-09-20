@@ -30,9 +30,14 @@ respondidas;</b></p>
 
 * [Relato dos Resultados Storyboard](relatoStory.md)
 
-## 4. Versionamento
+## 4. Referências Bibliográficas
+
+Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J.
+(2021) Interação Humano-Computador e Experiência do Usuário.
+
+## 5. Versionamento
 
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
-| 12/09/2021 |  3.0 | Criação da página    | Deivid Carvalho |
-| 13/09/2021 |  3.1 | Alteração dos relato dos Resultados    | Deivid Carvalho |
+| 12/09/2021 |  1.0 | Criação da página    | Deivid Carvalho |
+| 13/09/2021 |  1.1 | Alteração dos relato dos Resultados    | Deivid Carvalho |

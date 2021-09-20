@@ -21,24 +21,24 @@ A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento
 <p align = "justify"><b>Tarefa 2:</b> Emissão de IPTU.</p>
 <p align = "justify"> <b>Definição dos participantes: </b></p>
 <p align = "justify">Os dois participantes que farão parte da avaliação, serão escolhidos levando em consideração o perfil de usuário.<br>
-Participante 1: (Realizar tarefa 1): Morador de Unaí, idade 32 anos.<br>
-Participante 2: (Realizar tarefa 2): Morador de Unaí, idade 26 anos.</p>
+Participante 1: (Realizar tarefa 1): Morador de Unaí, idade 26 anos.<br>
+Participante 2: (Realizar tarefa 2): Morador de Unaí, não definido ainda.</p>
 
 
 ### 3.2 Coleta de dados e Interpretação
-<p align = "justify">Para a coleta e interpretação de dados, primeiramente, será o apresentado aos participantes o termo de consentimento . Caso o participante aceite o termo, será dado sequência na avaliação. </p>
+<p align = "justify">Para a coleta e interpretação de dados, primeiramente, será apresentado aos participantes o termo de consentimento . Caso o participante aceite o termo, será dado sequência na avaliação. </p>
 
 <a href="../../../img/termo.jpg">Termo de Consentimento</a>
 
 <p align = "justify">Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador </p>
 <b>Tarefa 1:</b> 
-<p align = "justify">O participante responsável por essa tarefa deverá Acessar o Detran atráves de links úteis, onde será verificado se o foi possível realizar a tarefa sem nunhum problema e os passos que o participante realizou. </p>
+<p align = "justify">O participante responsável por essa tarefa deverá Acessar o Detran atráves de links úteis, onde será verificado se foi possível realizar a tarefa sem nenhum problema e os passos que o participante realizou. </p>
 <b>Tarefa 2:</b> 
-<p align = "justify"> O participante responsável por essa tarefa deverá Emissão de IPTU, onde será verificado se o foi possível realizar a tarefa sem nunhum problema e os passos que o participante realizou.</p>
+<p align = "justify"> O participante responsável por essa tarefa deverá acessar Emissão de IPTU, onde será verificado se foi possível realizar a tarefa sem nunhum problema e os passos que o participante realizou.</p>
  
 <p align = "justify">Após isso será listado os problemas encontrados ao observar o participante interagindo com o protótipo;
 Após cada experiência de uso, deve ser feita a interpretação dos dados, observando a lista de problemas encontrados;
-Se necessário, deverá se efinar os protótipos em papel para resolver os problemas mais simples.</p>
+Se necessário, deve-se refinar os protótipos em papel para resolver os problemas mais simples.</p>
 
 
 ### 3.3 Consolidação dos resultados
@@ -68,4 +68,5 @@ Os avaliadores devem apresentar:
 
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
-| 18/09/2021 |  3.0 | Criação da página    | Victor |
+| 18/09/2021 |  1.0 | Criação da página    | Victor |
+| 20/09/2021 | 1.1  | Revisão | Paulo |

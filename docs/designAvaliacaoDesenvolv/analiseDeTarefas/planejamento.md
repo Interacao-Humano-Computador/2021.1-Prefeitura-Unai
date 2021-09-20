@@ -6,7 +6,7 @@
 
 <p align = "justify"> A avaliação de IHC é uma atividade indispensável em um projeto que busque produzir um sistema interativo com boa usabilidade.Também orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e ajuda na indentificação de problemas que atrapalhem experiência particular do usuário. </p>
 
-<p align = "justify"> Apesar de alguns equivocadamente considerarem-na burocrática, a atividade de preparação é fundamental para a condução adequada de uma avaliação que forneça resultados úteis e confiáveis,(Barbosa e Silva, 2021) dito isso, constata-se a importância da produção desse documento que irá conduzir a avaliação acerca do tema da Análise de Tarefas do site proposto, Prefeitura de Unaí. </p>
+<p align = "justify"> Apesar de alguns equivocadamente considerarem-na burocrática, a atividade de preparação é fundamental para a condução adequada de uma avaliação que forneça resultados úteis e confiáveis(Barbosa e Silva, 2021), dito isso, constata-se a importância da produção desse documento que irá conduzir a avaliação acerca do tema da Análise de Tarefas do site proposto, Prefeitura de Unaí. </p>
 
 ## 2. Escopo
 
@@ -103,3 +103,4 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 | 11/09/2021 |  1.0   |          Criação da página           |     Hugo      |
 | 12/09/2021 |  1.1   |         Adicionando conteúdo         |     Paulo     |
 | 12/09/2021 |  1.2   | Termo de consentimento e formatações | Irwin Schmitt |
+| 20/09/2021 |  1.2   | Revisão | Paulo |
