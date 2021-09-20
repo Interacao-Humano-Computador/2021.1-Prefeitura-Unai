@@ -45,7 +45,7 @@
 |   07   | Teve facilidade de encontrar o que desejava?                                                                                              | ()Sim</br> ()Não </br>(**X**) Mais ou menos                                                                                                                                                                                                                  |
 |   08   | Você notou diferenças entre a tarefa realizada e a tarefa representada nesse diagrama de tarefas? Se sim, o que você sugere como mudança? | ()Sim</br> (**X**)Não </br>                                                                                                                                                                                                                                  |
 
-#### Entrevista 3 - Rômulo Judas (Persona 3)
+#### Entrevista 3 - Rômulo Judas (Persona 4)
 
 
 
