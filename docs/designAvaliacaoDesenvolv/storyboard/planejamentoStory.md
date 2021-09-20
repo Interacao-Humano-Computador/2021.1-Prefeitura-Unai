@@ -15,15 +15,17 @@ Dada as funcionalidades definidas na fase de análises de requisitos, será vali
 <p align = "justify"><b>Pergunta a ser respondida</b>: O site da prefeitura de Unaí permite buscar suas funcionalidades sem utilizar palavras-chave?</p>
 <p align = "justify"><b>Pergunta a ser respondida</b>: O site da prefeitura de Unaí permite o acesso ao site do Detran através do menu, utilizando os links úteis e clickando na referência "Detran Veículos - Multas/Auto/Infração".</p>
 
-#### 2.1.2 Storyboard Arnaldo
-<p align = "justify"><b>Objetivo</b>: Verificar se o site da prefeitura de Unaí pode acessar a funcionalidade de notícias no menor tempo possível.</p>
-<p align = "justify"><b>Pergunta a ser respondida</b>: O site da prefeitura de Unaí permite acessar informações sobre Unaí de forma atualizada e sem demora nas suas buscas?</p>
+#### 2.1.2 Storyboard Julia
+<p align = "justify"><b>Objetivo</b>: Verificar se o site da prefeitura de Unaí pode acessar a funcionalidade de realizar o pagamento dos débitos de IPTU.</p>
+<p align = "justify"><b>Pergunta a ser respondida</b>: O site da prefeitura de Unaí permite acessar o Guia Online do IPTU da maneira mais rápida possível a um usuário experiente?</p>
 
 ## 3. Relato dos Resultados
 *<p align = "justify">informar os dados coletados</p>
 *<p align = "justify">Relatar interpretação dos dados encontrados</p>
 *<p align = "justify">Lista dos problemas encontrados</p>
 *<p align = "justify">Se necessário, planejar um reprojeto do sistema</p>
+
+## 4. Versionamento
 
 | Data |Versão|         Descrição          |       Autor      |
 |:----:|:----:|:--------------------------:|:----------------:|
