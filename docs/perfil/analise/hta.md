@@ -36,7 +36,7 @@ trabalho, e isso é o que a distingue de outras técnicas. Essa técnica é util
 |4. Preencher o captcha|ação: preencher corretamente o captcha|
 |5. Enviar formulário|ação: clicar no botão de enviar formulário|
 
- <center>*Tabela HTA para a solicitação de iluminação pública.*</center>
+*Tabela HTA para a solicitação de iluminação pública.*
         
 
 
