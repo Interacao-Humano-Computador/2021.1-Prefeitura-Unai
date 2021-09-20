@@ -20,10 +20,15 @@ Dada as funcionalidades definidas na fase de análises de requisitos, será vali
 <p align = "justify"><b>Pergunta a ser respondida</b>: O site da prefeitura de Unaí permite acessar o Guia Online do IPTU da maneira mais rápida possível a um usuário experiente?</p>
 
 ## 3. Relato dos Resultados
-*<p align = "justify">informar os dados coletados</p>
-*<p align = "justify">Relatar interpretação dos dados encontrados</p>
-*<p align = "justify">Lista dos problemas encontrados</p>
-*<p align = "justify">Se necessário, planejar um reprojeto do sistema</p>
+<p align = "justify">O documento sobre o relato de resultados devem conter os seguintes itens:</p>
+
+<p align = "justify"><b>os objetivos e escopo da avaliação;</b></p>
+<p align = "justify"><b>uma breve descrição do método de percurso cognitivo, incluindo as perguntas que devem ser
+respondidas;</b></p>
+<p align = "justify"><b>o número e o perfil de avaliadores;</b></p>
+<p align = "justify"><b>a descrição das tarefas analisadas.</b></p>
+
+* [Relato dos Resultados Storyboard](relatoStory.md)
 
 ## 4. Versionamento
 
