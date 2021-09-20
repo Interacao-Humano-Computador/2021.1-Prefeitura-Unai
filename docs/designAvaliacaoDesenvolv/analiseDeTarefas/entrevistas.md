@@ -108,4 +108,4 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 | :--------: | :----: | :----------------------------------: | :-----------: |
 | 18/09/2021 |  1.0   |          Criação da página           |     Hugo      |
 | 18/09/2021 |  1.1   |          Adição das entrevistas           |     Hugo      |
-| 20/09/2021 |  1.1   |          Edição das entrevistas           |     Hugo      |
+| 20/09/2021 |  1.2   |          Edição das entrevistas           |     Hugo      |
