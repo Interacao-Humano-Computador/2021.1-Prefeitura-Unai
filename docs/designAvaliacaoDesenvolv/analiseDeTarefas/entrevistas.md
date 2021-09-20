@@ -15,8 +15,10 @@
 
 <p align = "justify"> Para a realização da entrevista, foi definido uma série de perguntas que vão guiar a entrevista. Caso o avaliador ache necessário a adição ou remoção de alguma pergunta, pode ser feito. </p>
 
-### Entrevista 1 - Arnaldo Filho (Persona 1)
-#### Tarefa: Solicitar serviço de iluminação pública
+### Tarefa: Solicitar serviço de iluminação pública
+
+#### Entrevista 1 - Arnaldo Filho (Persona 1)
+
 
 | Número | Pergunta                                                                                                                                  | Opções de Resposta                                                                                                                                                                                                                                      |
 | :----: | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,8 +33,7 @@
 
 
 
-### Entrevista 2 - Júlia Leitão (Persona 2)
-#### Tarefa: Solicitar guia de IPTU
+#### Entrevista 2 - Júlia Leitão (Persona 2)
 
 
 | Número | Pergunta                                                                                                                                  | Opções de Resposta                                                                                                                                                                                                                                      |
@@ -41,13 +42,13 @@
 |   02   | Qual a sua idade?                                                                                                                         |                                                                                  **22 Anos**                                                                                                                                                                        |
 |   03   | Qual seu nível de formação?                                                                                                               | ( )Ensino Fundamental Incompleto </br>( )Ensino Fundamental Completo</br>( )Ensino Médio Incompleto</br>( )Ensino Médio Completo</br>(**X**)Ensino Superior Incompleto</br>( )Ensino Superior Completo</br>( )Pós Graduado</br>( )Mestrado</br>( )Doutorado |
 |   04   | Você já havia acessado o site da prefeitura ?                                                                                             | (**X**)Sim </br> ()Não                                                                                                                                                                                                                                       |
-|   05   | Já utilizou a funcionalidade de solicitar guia de IPTU?                       | (**X**)Sim</br> ()Não </br>()Talvez                                                                                                                                                                                                                          |
+|   05   | Já utilizou a funcionalidade de solicitar serviço de iluminação pública?                       | (**X**)Sim</br> ()Não </br>()Talvez                                                                                                                                                                                                                          |
 |   06   | O que te ajudou/atrapalhou mais na realização da tarefa?                                                                                  |                                                                      **Para mim, desde quando utilizei o serviço pela primeira vez, vi que foi extremamente fácil de utilizar, porém as vezes quando tento acessar o site, ele demora muito para carregar.**                                                                                                                                                                                  |
 |   07   | Teve facilidade de encontrar o que desejava?                                                                                              | ()Sim</br> ()Não </br>(**X**) Mais ou menos                                                                                                                                                                                                                  |
 |   08   | Você notou diferenças entre a tarefa realizada e a tarefa representada nesse diagrama de tarefas? Se sim, o que você sugere como mudança? | ()Sim</br> (**X**)Não </br>                                                                                                                                                                                                                                  |
 
-### Entrevista 3 - Rômulo Judas (Persona 3)
-#### Tarefa: Solicitar serviço de tapa buracos
+#### Entrevista 3 - Rômulo Judas (Persona 3)
+
 
 
 | Número | Pergunta                                                                                                                                  | Opções de Resposta                                                                                                                                                                                                                                      |
@@ -56,15 +57,16 @@
 |   02   | Qual a sua idade?                                                                                                                         |                                                                                  **53 Anos**                                                                                                                                                                        |
 |   03   | Qual seu nível de formação?                                                                                                               | ( )Ensino Fundamental Incompleto </br>( )Ensino Fundamental Completo</br>( )Ensino Médio Incompleto</br>(**X**)Ensino Médio Completo</br>( )Ensino Superior Incompleto</br>( )Ensino Superior Completo</br>( )Pós Graduado</br>( )Mestrado</br>( )Doutorado |
 |   04   | Você já havia acessado o site da prefeitura ?                                                                                             | (**X**)Sim </br> ()Não                                                                                                                                                                                                                                       |
-|   05   | Já utilizou a funcionalidade de solicitar serviço de tapa buracos?                       | ()Sim</br> (**X**)Não </br>()Talvez                                                                                                                                                                                                                          |
+|   05   | Já utilizou a funcionalidade de solicitar serviço de iluminação pública?                       | ()Sim</br> (**X**)Não </br>()Talvez                                                                                                                                                                                                                          |
 |   06   | O que te ajudou/atrapalhou mais na realização da tarefa?                                                                                  |                                                                      **Além do site demorar muito para abir, senti uma certa dificuldade com relação à solicitação do serviço. Primeiramente, as letras são muito pequenas o que dificulta muito para eu ler, já que tenho um certo problema ocular. Senti falta de botões que possam nos auxiliar para selecionar qual serviço queremos e não apenas preenchermos um formulário genérico.**                                                                                                                                                                                  |
 |   07   | Teve facilidade de encontrar o que desejava?                                                                                              | ()Sim</br> (**X**)Não </br>() Mais ou menos                                                                                                                                                                                                                  |
 |   08   | Você notou diferenças entre a tarefa realizada e a tarefa representada nesse diagrama de tarefas? Se sim, o que você sugere como mudança? | ()Sim</br> (**X**)Não </br>                                                                                                                                                                                                                                  |
 
 
+### Tarefa: Solicitar guia de IPTU
 
-### Entrevista 4 - José Maria Marinho
-#### Tarefa: Ler a história da cidade no site da prefeitura
+#### Entrevista 4 - José Maria Marinho
+
 
 
 | Número | Pergunta                                                                                                                                  | Opções de Resposta                                                                                                                                                                                                                                      |
@@ -73,13 +75,12 @@
 |   02   | Qual a sua idade?                                                                                                                         |                                                                                  **75 Anos**                                                                                                                                                                        |
 |   03   | Qual seu nível de formação?                                                                                                               | ( )Ensino Fundamental Incompleto </br>( )Ensino Fundamental Completo</br>( )Ensino Médio Incompleto</br>( )Ensino Médio Completo</br>(  )Ensino Superior Incompleto</br>( )Ensino Superior Completo</br>( )Pós Graduado</br>( )Mestrado</br>(**X**)Doutorado |
 |   04   | Você já havia acessado o site da prefeitura ?                                                                                             | ()Sim </br> (**X**)Não                                                                                                                                                                                                                                       |
-|   05   | Já leu a história da cidade de Unaí no site da prefeitura?                       | ()Sim</br> (**X**)Não </br>()Talvez                                                                                                                                                                                                                          |
+|   05   | Já utilizou a funcionalidade de solicitar guia de IPTU?                   | ()Sim</br> (**X**)Não </br>()Talvez                                                                                                                                                                                                                          |
 |   06   | O que te ajudou/atrapalhou mais na realização da tarefa?                                                                                  |                                                                      **Sem dúvidas o que mais me atrapalhou foi a demora para carregar o site e sua página principal abarrotada de informações e botões, todos soltos e desagrupados.**                                                                                                                                                                                  |
 |   07   | Teve facilidade de encontrar o que desejava?                                                                                              | ()Sim</br> (**X**)Não </br>() Mais ou menos                                                                                                                                                                                                                  |
 |   08   | Você notou diferenças entre a tarefa realizada e a tarefa representada nesse diagrama de tarefas? Se sim, o que você sugere como mudança? | ()Sim</br> (**X**)Não </br>                                                                                                                                                                                                                                  |
 
-### Entrevista 5 - Selzo Mussoumano
-#### Tarefa: Iniciar uma reclamação contra a prefeitura
+#### Entrevista 5 - Selzo Mussoumano
 
 
 | Número | Pergunta                                                                                                                                  | Opções de Resposta                                                                                                                                                                                                                                      |
@@ -88,8 +89,8 @@
 |   02   | Qual a sua idade?                                                                                                                         |                                                                                  **93 Anos**                                                                                                                                                                        |
 |   03   | Qual seu nível de formação?                                                                                                               | ( )Ensino Fundamental Incompleto </br>( )Ensino Fundamental Completo</br>( )Ensino Médio Incompleto</br>( )Ensino Médio Completo</br>( )Ensino Superior Incompleto</br>( )Ensino Superior Completo</br>( )Pós Graduado</br>( )Mestrado</br>(**X**)Doutorado |
 |   04   | Você já havia acessado o site da prefeitura ?                                                                                             | ()Sim </br> (**X**)Não                                                                                                                                                                                                                                       |
-|   05   | Já utilizou a funcionalidade de solicitar serviço de tapa buracos?                       | ()Sim</br> (**X**)Não </br>()Talvez                                                                                                                                                                                                                          |
-|   06   | O que te ajudou/atrapalhou mais na realização da tarefa?                                                                                  |                                                                      **O site é péssimo, o que atrapalha o cidadão a ter acesso ao seu direito de entrar em contato com a prefeitura, é extremamanete complexo enviar uma mensagem aos atendentes da prefeitura. Eles pedem um código de segurança que não consigo enchergar.**                                                                                                                                                                                  |
+|   05   | Já utilizou a funcionalidade de solicitar guia de IPTU?                       | ()Sim</br> (**X**)Não </br>()Talvez                                                                                                                                                                                                                          |
+|   06   | O que te ajudou/atrapalhou mais na realização da tarefa?                                                                                  |                                                                      **O site é péssimo, o que atrapalha o cidadão a ter acesso ao seu direito de emitir sua guia de IPTU, é extremamanete complexo solicitar a guia de IPTU. Eles pedem um código de segurança que não consigo enchergar.**                                                                                                                                                                                  |
 |   07   | Teve facilidade de encontrar o que desejava?                                                                                              | ()Sim</br> (**X**)Não </br>() Mais ou menos                                                                                                                                                                                                                  |
 |   08   | Você notou diferenças entre a tarefa realizada e a tarefa representada nesse diagrama de tarefas? Se sim, o que você sugere como mudança? | ()Sim</br> (**X**)Não </br>                                                                                                                                                                                                                                  |
 
@@ -107,3 +108,4 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 | :--------: | :----: | :----------------------------------: | :-----------: |
 | 18/09/2021 |  1.0   |          Criação da página           |     Hugo      |
 | 18/09/2021 |  1.1   |          Adição das entrevistas           |     Hugo      |
+| 20/09/2021 |  1.1   |          Edição das entrevistas           |     Hugo      |
