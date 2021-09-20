@@ -7,11 +7,9 @@
 <p align = "justify"> Este documento apresenta as entrevistas realizadas com os participantes, com o objetivo de analisar seus pontos de vista com relação a usabilidade do site.</p>
 
 
-## 2. Metodologia
 
-<p align = "justify"> A técnica utilizada para coletar os dados foi a realização de entrevistas, pertencente aos métodos de investigação, que consiste em uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informações sobre o participante. Porém devido a dificuldade de encontrar moradores da cidade de Unaí que se enquadre ao perfil de usuário, serão aplicadas entrevistas com nossas personas já definidas no projeto, elas serão: Arnaldo Filho (Persona 1), Julia Leitão(Persona 2) e Rômulo Judas (Persona 4). Serão feitas duas entrevistas adicionais com pessoas não residentes na cidade de Unaí, porém que concordaram em acessar o site e testá-lo.</p>
 
-## 3. A Entrevista
+## 2. A Entrevista
 
 <p align = "justify"> Para a realização da entrevista, foi definido uma série de perguntas que vão guiar a entrevista. Caso o avaliador ache necessário a adição ou remoção de alguma pergunta, pode ser feito. </p>
 
@@ -97,12 +95,12 @@
 
 
 
-## 4. Referências Bibliográficas
+## 3. Referências Bibliográficas
 
 Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J.
 (2021) Interação Humano-Computador e Experiência do Usuário.
 
-## 5. Versionamento
+## 4. Versionamento
 
 |    Data    | Versão |              Descrição               |     Autor     |
 | :--------: | :----: | :----------------------------------: | :-----------: |
