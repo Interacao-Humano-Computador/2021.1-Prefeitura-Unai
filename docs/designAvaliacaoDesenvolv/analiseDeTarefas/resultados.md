@@ -2,83 +2,51 @@
 
 # Avaliação
 
-## 1. Introdução
+## 1. Objetivos
 
-No documento serão apresentado os resultados da compreensão das atividades dos usuários, como realizam e por quê.
+A análise de tarefas foi feita para compreender quais são as atividades dos usuários, como realizam e por quê. Segundo Diaper (2003), é como um teste de ergonomia para os usuários.
 
-## 2. Preparação
+## 2. Métodos de avaliação
 
-<p align="justify">
-As seguintes atividades foram levadas em conta para o relato dos resupytltados.
-</p>
+Mais de um método de avaliação foi utilizado com a finalidade de trazer conhecimentos sobre diferentes abordagens.
 
 <ul>
-    <li>Solicitar serviço de iluminação pública;</li>
-    <li>Solicitar guia de IPTU;</li>
-    <li>Solicitar serviço de tapa buracos;</li>
-    <li>Ler a história da cidade no site da prefeitura;</li>
-    <li>Iniciar uma reclamação contra a prefeitura.</li>
+    <li><strong>CMN-GOMS</strong>: copiar o número da ambulância;</li>
+    <li><strong>KLM</strong>: Emitir guia de IPTU;</li>
+    <li><strong>HTA</strong>: solicitar serviço de iluminação pública;</li>
+    <li><strong>CTT</strong>: Consulta ao Detran Veículos.</li>
 </ul>
 
-## 3. Método de avaliação
+## 3. Usuários e avaliadores
 
-<p align="justify">
-O método de avaliação utilizado foi o percurso cognitivo — um método por inspeção que avalia a facilidade de aprendizado do usuário.
-</p>
+Os membros do grupo conduziram a análise de tarefas como avaliadores, 15 pessoas responderam o questionário e 4 personas participaram da entrevista, com os perfis disponíveis no <a href="/perfil/perfil">link</a>.
 
 ## 4. Coleta de dados
 
-<p align="justify">
-Com o uso do método de percurso cognitivo, 4 perguntas são feitas sobre cada tarefa:
-</p>
+A coleta de dados foi realizada através de um
+<a href="/designAvaliacaoDesenvolv/analiseDeTarefas/entrevistas/">questionário</a>
+e de uma
+<a href="/designAvaliacaoDesenvolv/analiseDeTarefas/entrevistas/">entrevista</a>
+feita com as personas.
 
-<ol>
-    <li>O usuário tentaria atingir o efeito correto?</li>
-    <li>O usuário perceberia que a ação correta está disponível? </li>
-    <li>O usuário conseguiria associar a ação correta com o efeito que está tentando atingir?</li>
-    <li>Caso a ação correta for realizada, o usuário perceberia que está progredindo para concluir a tarefa?</li>
-</ol>
+## 5. Problemas encontrados
 
-### 4.1 Solicitar iluminação pública
+Dentre todos os entrevistados, um problema recorrente foi a demora do usuário encontrar o acesso para as tarefas que gostaria de realizar. Isso é devido à poluição visual da interface inicial do site, com 6 menus de acesso às atividades.
 
-|                     Operações                      | P1  |                                                    P2                                                     | P3  |                           P4                           |
-| :------------------------------------------------: | :-: | :-------------------------------------------------------------------------------------------------------: | :-: | :----------------------------------------------------: |
-| 0. Mover o mouse para o botão "Solicitar serviços" | Sim | Sim, com demora. Com a quantidade de botões é difícil identificar onde está a opção que o usuário deseja. | Sim | Não, não há feedback ao arrastar o mouse para o botão. |
-|      1. Clicar no botão "Solicitar serviços"       | Sim |                                                    Sim                                                    | Sim |                          Sim                           |
-|         2. Preencher os dados solicitados          | Sim |                                                    Sim                                                    | Sim |                          Sim                           |
-|               3. Preencher o CAPTCHA               | Sim |                                                    Sim                                                    | Sim |                          Sim                           |
-|       4. Mover o mouse para o botão "Enviar"       | Sim |                                                    Sim                                                    | Sim | Não, não há feedback ao arrastar o mouse para o botão. |
-|            5. Clicar no botão "Enviar"             | Sim |                                                    Sim                                                    | Sim |                          Sim                           |
+## 6. Reprojeto do sistema
 
- <center>*Tabela 1. Percurso cognitivo para a solicitar iluminação pública.*</center>
+Na conclusão da análise de tarefas, é evidente que a maior melhoria deve ser a redução da quantidade inicial de menus e botões disponíveis para o usuário. No reprojeto do sistema será utilizado apenas um menu com submenus por categoria e uma área de acesso rápido, com os itens mais utilizados por todos e por cada usuário.
 
-### 4.2 Emitir guia de IPTU
+a quantidade de elementos.
 
-| Métodos | P1 | P2 | P3 | P4  
- |
-| :---------------------------------------------------------: | :-: | :--------------: | :-: | :---------------------------------------------------: |
-| 0. Mover o mouse para o botão no botão "IPTU" | Sim | Sim, com demora. Com a quantidade de botões é difícil identificar onde está a opção que o usuário deseja. | Sim | Não, não há feedback ao arrastar o mouse para o botão |
-| 1. Clicar no botão "IPTU" | Sim | Sim | Sim | Não, não há feedback ao arrastar o mouse para o botão |
-| 2. Mover o mouse para o botão no botão "Emitir guia online" | Sim | Sim | Sim | Não, não há feedback ao arrastar o mouse para o botão |
-| 3. Clicar no botão "Emitir guia online" | Sim | Sim | Sim | Sim |
-| 4. Preencher os dados solicitados | Sim | Sim | Sim | Sim |
-| 5. Preencher o CAPTCHA | Sim | Sim | Sim | Sim |
-| 6. Mover o mouse para o botão "Buscar" | Sim | Sim | Sim | Não, não há feedback ao arrastar o mouse para o botão |
-| 7. Clicar no botão "Buscar" | Sim | Sim | Sim | Sim |
-
- <center>*Tabela 2. Percurso cognitivo para a emitir guia de IPTU.*</center>
-
-## 5. Conclusão e relato dos resultados
-
-O maior tempo gasto para o usuário realizar uma tarefa é encontrar onde pode acessar essa tarefa. A interface do site é poluída, possuindo diversos menus e "acessos rápidos" que acabam não sendo rápidos, dada a quantidade de elementos.
-
-## 6. Referências Bibliográficas
+## 7. Referências Bibliográficas
 
 Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J.
 (2021) Interação Humano-Computador e Experiência do Usuário.
 
-## 7. Versionamento
+## 8. Versionamento
 
-|    Data    | Versão |            Descrição            |     Autor     |
-| :--------: | :----: | :-----------------------------: | :-----------: |
-| 20/09/2021 |  1.0   | Tarefas e relato dos resultados | Irwin Schmitt |
+|    Data    | Versão |              Descrição              |     Autor     |
+| :--------: | :----: | :---------------------------------: | :-----------: |
+| 20/09/2021 |  1.0   |   Tarefas e relato dos resultados   | Irwin Schmitt |
+| 21/09/2021 |  2.0   | Atualização e melhoria da estrutura | Irwin Schmitt |
