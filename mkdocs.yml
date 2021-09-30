@@ -16,7 +16,7 @@ nav:
     - Questionário:  perfil/questionario.md
     - Perfil de Usuário: perfil/perfil.md
     - Personas: perfil/personas.md
-    - Análise de tarefas: 
+    - Análise de Tarefas: 
       - HTA:  perfil/analise/hta.md
       - CTT:  perfil/analise/ctt.md
       - KLM:  perfil/analise/klm.md
@@ -36,5 +36,7 @@ nav:
       - Relato dos resultados: designAvaliacaoDesenvolv/storyboard/relatoStory.md
     - Protótipo em papel:
       - Planejamento:  designAvaliacaoDesenvolv/papel/planejamentopapel.md 
+  - Verificação dos Artefatos:
+    - Introdução: verificacao/introducao.md
   - Apresentações: apresentacoes/15_08_2021.md
   
