@@ -2,14 +2,18 @@
 
 # Planejamento da avaliação do Protótipo em papel
 
+## 1. Introdução
+<p align = "justify">
+Os protótipos são ferramentas que possibilitam que os envolvidos no projeto interajam com um produto imaginado visando a adquirir alguma experiência de como utilizá-lo em um ambiente real. Nessa etapa do projeto será utilizado protótipos de baixa-fidelidade, que não se assemelham muito ao produto final, mas são simples e de rápida produção. Dessa forma, nessa etapa será utilizado a prototipação em papel, que é um método que permite avaliar a usabilidade de um design de IHC. Esse protótipo, será utilizado para avaliar um solução parcial, porém de apenas uma parte da interface com o usuário, visando as funcionalidades e não caráter estético.
+</p>
 
-## 1. Objetivo
+## 1.1 Objetivo
 <p align = "justify">
 A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso (Barbosa e Silva 2010). Dessa forma, esse documento tem como objetivo especificar as etapas do planejamento de avaliação utilizando a prototipação em papel.
 </p>
 
 ## 2. Metodologia
-<p align = "justify">O planejamento de avaliação do protótipação em papel foi baseada no  livro Interação Humano-Computador de Simone Barbosa e Bruno Silva. Dessa forma, para realização do metódo será por meio de uma <b>Entrevista,</b> seguindo as seguintes atividades: <br> - Preparação <br> - Coleta e interpretação de dados <br> - Consolidação dos resultados <br> - Relato dos resultados.</p>
+<p align = "justify">O planejamento de avaliação do protótipação em papel foi baseada no  livro Interação Humano-Computador de Simone Barbosa e Bruno Silva. Dessa forma, para realização do metódo será por meio de uma <b>Entrevista,</b> seguindo as atividades: <br> - Preparação <br> - Coleta e interpretação de dados <br> - Consolidação dos resultados <br> - Relato dos resultados.</p>
 
 ## 3. Avaliação
 <p align = "justify">Para a execução do método de prototipação em papel será seguido as informações contídas no Capítulo 10 do livro Interação Humano-Computador de Simone Barbosa e Bruno Silva.
@@ -49,7 +53,7 @@ Além disso, deverá ser sugerido propostas de correção para esses problemas.
 
 ### 3.4 Relato dos Resultados
 
-<p align = "justify">Nessa etapa será relatado os problemas encontrados e sugestões de correção.</p>
+<p align = "justify">Nessa fase será relatado os problemas encontrados e sugestões de correção.</p>
 Os avaliadores devem apresentar:
 
 - <p align = "justify">Os objetivos da avaliação.</p>
