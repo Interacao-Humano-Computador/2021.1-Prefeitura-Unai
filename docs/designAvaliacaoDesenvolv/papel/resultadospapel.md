@@ -56,7 +56,7 @@ A entrevista contou com 2 avaliadores, Deivid Alves e Victor Rayan, e 2 particip
 o que o deixou confuso. Ademais, sugeriu uma legenda nos tributos da guia online e que pela barra de pesquisa é a principal forma de navegar pelo site. </p>
 
 ## 4. Conclusão
-<p align = "justify"> Diante de todos os dados coletados, foi possível verificar que o protótipo criado, atende bem relação às funcionalidades. É preciso fazer ajustes na barra de pesquisa, para que por meio dela sejá possível ter acesso a emissão de Iptu e Detran, de forma que os dados sejam apresentados de forma simples e rápida, funciolidade que não existe no protótipo de papel e nem no site da prefeitura de Unaí. Além disso, é necessário diminuir a quantidade de informações na tela para não confundir o usuário.
+<p align = "justify"> Diante de todos os dados coletados, foi possível verificar que o protótipo criado, atende bem relação às funcionalidades ou seja, as metas de usabilidade foram atingidas. É preciso fazer ajustes na barra de pesquisa, para que por meio dela sejá possível ter acesso a emissão de Iptu e Detran, de forma que os dados sejam apresentados de forma simples e rápida, funciolidade que não existe no protótipo de papel e nem no site da prefeitura de Unaí. Além disso, é necessário diminuir a quantidade de informações na tela para não confundir o usuário.
 </p>
 
 ## Referências

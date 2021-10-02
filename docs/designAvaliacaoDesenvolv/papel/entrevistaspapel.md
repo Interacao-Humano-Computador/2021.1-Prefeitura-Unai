@@ -18,4 +18,4 @@
 
 | Data |Versão| Descrição | Autor |
 |:----:|:----:|:---------:|:-----:|
-|01/10 | 1.0  | Criação da página | Victor |
+|01/10 | 1.0  | Adição de conteúdo | Victor |

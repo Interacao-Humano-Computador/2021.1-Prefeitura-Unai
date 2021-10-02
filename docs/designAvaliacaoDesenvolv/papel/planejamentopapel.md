@@ -19,7 +19,7 @@ A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento
 <p align = "justify">Para a execução do método de prototipação em papel será seguido as informações contídas no Capítulo 10 do livro Interação Humano-Computador de Simone Barbosa e Bruno Silva.
 </p>
 
-### Protótipos em Papel
+### Protótipo em Papel
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FROFBkP8BOjRhBAzqg4e40j%2FUna%C3%AD%3Fnode-id%3D109%253A2%26scaling%3Dscale-down%26page-id%3D1%253A2%26starting-point-node-id%3D109%253A2" allowfullscreen></iframe>
 
@@ -30,7 +30,7 @@ Para melhor visualizar o protótipo acima  <a href='https://www.figma.com/proto/
 <p align = "justify"><b>Tarefa 1:</b> Acessar o Detran através de links úteis.<br></p>
 <p align = "justify"><b>Tarefa 2:</b> Emissão de IPTU.</p>
 <p align = "justify"> <b>Definição dos participantes: </b></p>
-<p align = "justify">Os dois participantes que farão parte da avaliação, serão escolhidos levando em consideração o perfil de usuário.<br>
+<p align = "justify">Os dois participantes que farão parte da avaliação, serão escolhidos levando em consideração o perfil de usuário.<br></p>
 
 
 ### 3.2 Coleta de dados e Interpretação
@@ -51,27 +51,19 @@ Se necessário, deve-se refinar os protótipos em papel para resolver os problem
 
 ### 3.3 Consolidação dos resultados
 
-Nessa etapa será verificado os problemas listados e priorizar a correção deles.
-Além disso, deverá ser sugerido propostas de correção para esses problemas.
+<p align = "justify"> Nessa etapa será verificado os problemas listados e priorizar a correção deles. Além disso, deverá ser sugerido propostas de correção para esses problemas. </p>
 
 
 ### 3.4 Relato dos Resultados
 
-<p align = "justify">Nessa fase será relatado os problemas encontrados e sugestões de correção.</p>
-Os avaliadores devem apresentar:
-
-- <p align = "justify">Os objetivos da avaliação.</p>
-
-- <p align = "justify">Uma breve descrição do método de prototipação em papel.</p>
-
-- <p align = "justify">O número de avaliadores e participantes.</p>
-
-- <p align = "justify">As tarefas executadas pelos participantes.</p>
-- <p align = "justify">Uma lista de problemas de usabilidade, indicando:<br><br> - Fatores de usabilidade prejudicados;<br> - Descrição do problema;<br> <br> - Sugestões de correção;<br> - Indicação de partes do sistema que podem ser mais bem elaboradas.</p>
+<p align = "justify">Nessa fase será relatado os problemas encontrados e sugestões de correção.<br>
+Os avaliadores devem apresentar:<br> - Os objetivos da avaliação<br> - Uma breve descrição do método de prototipação em papel.<br> - O número de avaliadores e participantes. <br> -  As tarefas executadas pelos participantes.
+<br>Uma lista de problemas de usabilidade, indicando:<br>* Fatores de usabilidade prejudicados;<br> * Descrição do problema;<br> * Sugestões de correção;<br> * Indicação de partes do sistema que podem ser mais bem elaboradas.</p>
 
 ## Referências
 
 ##### Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
+
 
 
 | Data |Versão|         Descrição          |       Autor      |

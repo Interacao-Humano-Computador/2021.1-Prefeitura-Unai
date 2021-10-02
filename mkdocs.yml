@@ -38,6 +38,8 @@ nav:
       - Planejamento:  designAvaliacaoDesenvolv/papel/planejamentopapel.md 
       - Entrevistas: designAvaliacaoDesenvolv/papel/entrevistaspapel.md
       - Relato dos resultados: designAvaliacaoDesenvolv/papel/resultadospapel.md
+    - Protótipo de alta fidelidade:
+      - Planejamento:  designAvaliacaoDesenvolv/altafidelidade/planejaltafidelidade.md  
   - Verificação dos Artefatos:
     - Introdução: verificacao/introducao.md
   - Apresentações: apresentacoes/15_08_2021.md
