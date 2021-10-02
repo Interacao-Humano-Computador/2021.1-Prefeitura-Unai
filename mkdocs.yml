@@ -40,5 +40,8 @@ nav:
       - Relato dos resultados: designAvaliacaoDesenvolv/papel/resultadospapel.md
   - Verificação dos Artefatos:
     - Introdução: verificacao/introducao.md
+    - Planejamento:
+      - Sites Avaliados: verificacao/planejamento/sitesAvaliados.md
+      - Site Escolhido: verificacao/planejamento/siteEscolhido.md
   - Apresentações: apresentacoes/15_08_2021.md
   
