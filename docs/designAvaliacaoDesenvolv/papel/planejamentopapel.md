@@ -19,14 +19,18 @@ A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento
 <p align = "justify">Para a execução do método de prototipação em papel será seguido as informações contídas no Capítulo 10 do livro Interação Humano-Computador de Simone Barbosa e Bruno Silva.
 </p>
 
+### Protótipos em Papel
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FROFBkP8BOjRhBAzqg4e40j%2FUna%C3%AD%3Fnode-id%3D109%253A2%26scaling%3Dscale-down%26page-id%3D1%253A2%26starting-point-node-id%3D109%253A2" allowfullscreen></iframe>
+
+Para melhor visualizar o protótipo acima  <a href='https://www.figma.com/proto/ROFBkP8BOjRhBAzqg4e40j/Unaí?node-id=109%3A2&scaling=scale-down&page-id=1%3A2&starting-point-node-id=109%3A2' target='_blank'>clique aqui.</a>
+
 ### 3.1 Preparação
 <p align = "justify"> Os participantes executarão as seguintes tarefas:</p>
 <p align = "justify"><b>Tarefa 1:</b> Acessar o Detran através de links úteis.<br></p>
 <p align = "justify"><b>Tarefa 2:</b> Emissão de IPTU.</p>
 <p align = "justify"> <b>Definição dos participantes: </b></p>
 <p align = "justify">Os dois participantes que farão parte da avaliação, serão escolhidos levando em consideração o perfil de usuário.<br>
-Participante 1: (Realizar tarefa 1): Morador de Unaí, idade 26 anos.<br>
-Participante 2: (Realizar tarefa 2): Morador de Unaí, não definido ainda.</p>
 
 
 ### 3.2 Coleta de dados e Interpretação
@@ -63,7 +67,7 @@ Os avaliadores devem apresentar:
 - <p align = "justify">O número de avaliadores e participantes.</p>
 
 - <p align = "justify">As tarefas executadas pelos participantes.</p>
-- <p align = "justify">Uma lista de problemas de usabilidade, indicando:<br> - Local onde ocorreu;<br> - Fatores de usabilidade prejudicados;<br> - Descrição do problema;<br> - Prioridade para correção;<br> - Sugestões de correção;<br> - Indicação de partes do sistema que podem ser mais bem elaboradas.</p>
+- <p align = "justify">Uma lista de problemas de usabilidade, indicando:<br><br> - Fatores de usabilidade prejudicados;<br> - Descrição do problema;<br> <br> - Sugestões de correção;<br> - Indicação de partes do sistema que podem ser mais bem elaboradas.</p>
 
 ## Referências
 
