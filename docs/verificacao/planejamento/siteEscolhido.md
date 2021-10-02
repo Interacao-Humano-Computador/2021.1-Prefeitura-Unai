@@ -16,9 +16,7 @@
 
 ## Checklist
 
-<p align = "justify">
-Checklist geral, podendo ser modificado na verificação do documento.
- </p>
+
 
 | Número | Questão | Resposta |
 |:----:|:----:|:----:|

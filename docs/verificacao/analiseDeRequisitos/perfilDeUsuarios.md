@@ -1,10 +1,10 @@
 ![UnB](../../img/unb.jpg)
 
-# Verificação - Planejamento - Sites Avaliados
+# Verificação - Análise de Requisitos - Perfil do Usuário
 
 ## Dados do Documento
 
-* Documento avaliado: Planejamento - Sites Avaliados
+* Documento avaliado: Análise de Requisitos - Perfil do Usuário
 
 * Técnica de verificação: Inspeção
 
@@ -17,22 +17,25 @@
 ## Checklist
 
 
+
 | Número | Questão | Resposta |
 |:----:|:----:|:----:|
 |1|O Documento possui versionamento?|✅|
-|2|Está gramaticalmente correto?|✅|
-|3|Os sites estão corretamente apresentados?|✅|
-|4|Todas as imagens dos sites funcionam corretamente?|❌|
-|5|As imagens possuem legendas?|✅|
+|2|Está gramaticalmente correto?|❌|
+|3|Todas as imagens funcionam corretamente?|✅|
+|4|As imagens possuem legendas?|✅|
+|5|O documento apresenta as referências bibliográficas?|✅|
+|6|Os tópicos correspondem com os conteúdos apresentados?|✅|
+
 
 ## Conclusão
 
 <p align = "justify">
-No geral o documento encontra-se muito bem escrito, há apenas uma imagem com linkagem "quebrada".
+O documento possui alguns erros ortográficos, porém encontra-se muito bem escrito.
  </p>
 
- <center> ![Gráfico](../../img/graphSitesAvaliados.png) </center>
-  <figcaption>Figura 1: Gráfico representando os critérios cumpridos ou não do cheklist. Fonte: Autor</figcaption>
+ <center>![Gráfico](../../img/graphPerfilDeUsuarios.png)</center>
+ <figcaption>Figura 1: Gráfico representando os critérios cumpridos ou não do cheklist. Fonte: Autor</figcaption>
 
 
 ## Referências Bibliográficas
