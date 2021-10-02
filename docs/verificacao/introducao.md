@@ -22,6 +22,11 @@ Após a verificação dos artefatos, serão documentados os erros e acertos enco
 Ao final da documentação de erros e acertos, serão aplicadas as correções necessárias nos documentos.
  </p>
 
+
+
+
+
+
 ## Referências Bibliográficas
 
 Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J.
