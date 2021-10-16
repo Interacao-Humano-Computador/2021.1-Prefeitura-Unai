@@ -47,5 +47,15 @@ nav:
       - Site Escolhido: verificacao/planejamento/siteEscolhido.md
     - Análise de Requisitos:
       - Perfil de Usuários: verificacao/analiseDeRequisitos/perfilDeUsuarios.md
+      - Análise de tarefas: verificacao/analiseDeRequisitos/analisetarefasver.md
+      - Guia de estilo: verificacao/analiseDeRequisitos/guiaestilover.md
+      - Metas de usabilidade: verificacao/analiseDeRequisitos/metasdeusabilidade.md
+      - Personas: verificacao/analiseDeRequisitos/personasve.md
+      - Princípios e Diretrizes: verificacao/analiseDeRequisitos/principiosdiretriver.md
+    - Storyboard: verificacao/storyboardver.md
+    - Protótipo de papel: verificacao/papelver.md
+    - Protótipo de alta fidelidade: verificacao/altafidelidadever.md
+    
+
   - Apresentações: apresentacoes/15_08_2021.md
   
