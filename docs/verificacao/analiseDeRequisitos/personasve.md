@@ -8,9 +8,8 @@
 
 * Técnica de verificação: Inspeção
 
-* Autor do documento: Paulo, Victor e Deivid
 
-* Inspetor: Hugo Rocha
+* Inspetor: Deivid
 
 
 
@@ -33,8 +32,6 @@
 <p align = "justify">
 O documento das personas estão de acordo com o conteúdo da bibliografia da disciplina de IHC.
  </p>
-
-
 
 
 ## Referências Bibliográficas

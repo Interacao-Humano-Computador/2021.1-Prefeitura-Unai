@@ -8,9 +8,9 @@
 
 * Técnica de verificação: Inspeção
 
-* Autor do documento: Deivid Carvalho
 
-* Inspetor: Hugo Rocha
+
+* Inspetor: Paulo
 
 
 

@@ -35,9 +35,7 @@
 O documento possui alguns erros ortográficos. Falta acrescentar de forma separada a análise da aplicação das metas.
  </p>
 
- <center>![Gráfico](../../img/graphPerfilDeUsuarios.png)</center>
- <figcaption>Figura 1: Gráfico representando os critérios cumpridos ou não do cheklist. Fonte: Autor</figcaption>
-
+ 
 
 ## Referências Bibliográficas
 

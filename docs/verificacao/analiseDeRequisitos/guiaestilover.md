@@ -1,16 +1,16 @@
 ![UnB](../../img/unb.jpg)
 
-# Verificação - Análise de Requisitos - Perfil do Usuário
+# Verificação - Análise de Requisitos - Guia de estilo
 
 ## Dados do Documento
 
-* Documento avaliado: Análise de Requisitos - Perfil do Usuário
+* Documento avaliado: Análise de Requisitos - Guia de estilo
 
 * Técnica de verificação: Inspeção
 
-* Autor do documento: Deivid Carvalho
+* Autor do documento: Irwin
 
-* Inspetor: Hugo Rocha
+* Inspetor: Victor
 
 
 
@@ -21,17 +21,17 @@
 | Número | Questão | Resposta |
 |:----:|:----:|:----:|
 |1|O Documento possui versionamento?|✅|
-|2|Está gramaticalmente correto?|❌|
-|3|Todas as imagens funcionam corretamente?|✅|
-|4|As imagens possuem legendas?|✅|
-|5|O documento apresenta as referências bibliográficas?|✅|
-|6|Os tópicos correspondem com os conteúdos apresentados?|✅|
+|2|Está gramaticalmente correto?|✅|
+|3|O Planejamento e o guia de estilo estão de acordo com o conteúdo da bibliografia de IHC?|✅|
+|4|O Guia de Estilo está de acordo com o padrão Marcus/Mayhew?|✅|
+|5|O guia de estilo mantem certas características do site da prefeitura de Unaí?|❌|
+
 
 
 ## Conclusão
 
 <p align = "justify">
-O documento possui alguns erros ortográficos, porém encontra-se muito bem escrito.
+O documento está de acordo com as informações de IHC, porém o guia de estilo não manteve quase nada do site original, ou seja, é como se todo o estilo do site original não pudesse ser aproveitado.
  </p>
 
   <!--<center>![Gráfico](../../img/graphPerfilDeUsuarios.png)</center>
@@ -46,8 +46,3 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 
 Slide: Serrano, M.; Serrano, M. Requisitos - Aula 23.
 
-## Versionamento
-
-| Data |Versão|         Descrição          |       Autor      |
-|:----:|:----:|:--------------------------:|:----------------:|
-| 02/10/2021 |  1.0 | Criação da página     | Hugo |

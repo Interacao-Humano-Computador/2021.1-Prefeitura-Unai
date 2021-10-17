@@ -1,4 +1,4 @@
-![UnB](../../img/unb.jpg)
+![UnB](/../../../img/unb.jpg)
 
 # Verificação - Design, avaliação e desenvolvimento - Storyboard
 
@@ -34,9 +34,6 @@
 O documento possui alguns erros ortográficos, porém está de acordo com o contéudo da disciplina.
  </p>
 
- <center>![Gráfico](../../img/graphPerfilDeUsuarios.png)</center>
- <figcaption>Figura 1: Gráfico representando os critérios cumpridos ou não do cheklist. Fonte: Autor</figcaption>
-
 
 ## Referências Bibliográficas
 
@@ -45,4 +42,3 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 
 Slide: Serrano, M.; Serrano, M. Requisitos - Aula 23.
 
-## Versionamento

@@ -44,6 +44,3 @@ Slide: Serrano, M.; Serrano, M. Requisitos - Aula 23.
 
 ## Versionamento
 
-| Data |Versão|         Descrição          |       Autor      |
-|:----:|:----:|:--------------------------:|:----------------:|
-| 02/10/2021 |  1.0 | Criação da página     | Hugo |

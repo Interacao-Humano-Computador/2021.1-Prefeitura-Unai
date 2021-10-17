@@ -26,6 +26,7 @@
 |4|As imagens possuem legendas?|✅|
 |5|O documento apresenta as referências bibliográficas?|✅|
 |6|Os tópicos correspondem com os conteúdos apresentados?|✅|
+|7| O documento apresenta os principais perfis dos usuários do site da prefeitura de Unaí?|✅|
 
 
 ## Conclusão
@@ -34,8 +35,6 @@
 O documento possui alguns erros ortográficos, porém encontra-se muito bem escrito.
  </p>
 
- <center>![Gráfico](../../img/graphPerfilDeUsuarios.png)</center>
- <figcaption>Figura 1: Gráfico representando os critérios cumpridos ou não do cheklist. Fonte: Autor</figcaption>
 
 
 ## Referências Bibliográficas
@@ -45,8 +44,3 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 
 Slide: Serrano, M.; Serrano, M. Requisitos - Aula 23.
 
-## Versionamento
-
-| Data |Versão|         Descrição          |       Autor      |
-|:----:|:----:|:--------------------------:|:----------------:|
-| 02/10/2021 |  1.0 | Criação da página     | Hugo |
