@@ -36,7 +36,7 @@ Para melhor visualizar o protótipo acima  <a href='https://www.figma.com/proto/
 ### 3.2 Coleta de dados e Interpretação
 <p align = "justify">Para a coleta e interpretação de dados, primeiramente, será apresentado aos participantes o termo de consentimento . Caso o participante aceite o termo, será dado sequência na avaliação. </p>
 
-<a href="/../../../img/termo.JPG">Termo de Consentimento</a>
+<a href="../../../../img/termo.JPG">Termo de Consentimento</a>
 
 <p align = "justify">Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador </p>
 <b>Tarefa 1:</b> 

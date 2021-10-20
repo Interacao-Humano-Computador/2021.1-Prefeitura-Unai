@@ -12,13 +12,13 @@ desenhos mostrando como um usuário pode progredir em uma tarefa. Tem como objet
 ## 2. Storyboard: Acessar o Detran através de links úteis
 
 <p align = "justify"> O Storyboard (Figura 1) representa <b> como acontece </b> a tarefa de acessar o Detran. </p>
-<a href="/../../../../img/detranstoryfalso.png" title="Clique aqui para ampliar" ><img src="/../../../../img/detranstoryfalso.png"/></a>
+<a href="../../../../img/detranstoryfalso.png" title="Clique aqui para ampliar" ><img src="../../../../img/detranstoryfalso.png"/></a>
 <p align = "center" style="color:grey">Figura 1: Storyboard como é a tarefa acessar o Detran</br>
 Fonte: Autor</p>
 
 <p align = "justify"> O Storyboard (Figura 2) representa <b>como deveria acontecer</b> a tarefa de acessar o Detran. </p>
 
-<a href="/../../../../img/detranstoryreal.jpg" title="Clique aqui para ampliar" ><img src="/../../../../img/detranstoryreal.jpg"/></a>
+<a href="../../../../img/detranstoryreal.jpg" title="Clique aqui para ampliar" ><img src="../../../../img/detranstoryreal.jpg"/></a>
 <p align = "center"  style="color:grey">Figura 2: Storyboard como deveria ser a tarefa acessar o Detran</br>
 Fonte: Autor</p>
 
@@ -40,7 +40,7 @@ Fonte: Autor</p>
 
 <p align = "justify"> O Storyboard (Figura 3) representa <b> como acontece </b> a tarefa de Emissão de IPTU. </p>
 
-<a href="/../../../img/storyjulia.png" title="Clique aqui para ampliar" ><img src="/../../../img/storyjulia.png"/></a>
+<a href="../../../../img/storyjulia.png" title="Clique aqui para ampliar" ><img src="../../../../img/storyjulia.png"/></a>
 <p align = "center" style="color:grey">Figura 3: Storyboard como é a tarefa emitir IPTU</br>
 Fonte: Autor</p>
 
