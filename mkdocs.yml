@@ -42,7 +42,9 @@ nav:
         - Relato dos resultados: designAvaliacaoDesenvolv/nivel2\papel/resultadospapel.md
     - Nível 3:    
       - Protótipo de alta fidelidade:
-        - Planejamento:  designAvaliacaoDesenvolv/nivel3\altafidelidade/planejaltafidelidade.md  
+        - Planejamento:  designAvaliacaoDesenvolv/nivel3\altafidelidade/planejaltafidelidade.md 
+        - Entrevista:  designAvaliacaoDesenvolv/nivel3\altafidelidade/entrevistalta.md
+        - Resultados: designAvaliacaoDesenvolv/nivel3\altafidelidade/resultalta.md
   - Verificação dos Artefatos:
     - Introdução: verificacao/introducao.md
     - Planejamento:

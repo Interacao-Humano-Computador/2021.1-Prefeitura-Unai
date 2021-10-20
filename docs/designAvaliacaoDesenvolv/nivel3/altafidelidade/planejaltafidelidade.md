@@ -20,6 +20,7 @@ A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento
 </p>
 
 
+
 ### 3.1 Preparação
 
 <p align = "justify"> o protótipo sera feito utilizando a ferramenta figma:</p>
@@ -28,6 +29,10 @@ A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento
 <p align = "justify"><b>Tarefa 2:</b> Emissão de IPTU.</p>
 <p align = "justify"> <b>Definição dos participantes: </b></p>
 <p align = "justify">Os dois participantes que farão parte da avaliação, serão escolhidos levando em consideração o perfil de usuário.<br></p>
+
+<p align = "justify">Abaixo está o protótipo a ser avaliado, para verificar se atende como solução.<br></p>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FnF33YyV0Z6GuBun9FTvNUj%2FPrefeitura-de-Una%C3%AD%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 
 ### 3.2 Coleta de dados e Interpretação
