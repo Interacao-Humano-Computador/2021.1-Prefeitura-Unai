@@ -1,4 +1,4 @@
-![UnB](../../img/unb.jpg)
+![UnB](../../../img/unb.jpg)
 
 # Planejamento da avaliação do Protótipo de alta fidelidade
 
@@ -33,7 +33,7 @@ A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento
 ### 3.2 Coleta de dados e Interpretação
 <p align = "justify">Para a coleta e interpretação de dados, primeiramente, será apresentado aos participantes o termo de consentimento . Caso o participante aceite o termo, será dado sequência na avaliação. </p>
 
-<a href="../../../img/termo.jpg">Termo de Consentimento</a>
+<a href="/../../../img/termo.jpg">Termo de Consentimento</a>
 
 <p align = "justify">Cada usuário deve executar as tarefas propostas interagindo com o protótipo, mediado pelo avaliador </p>
 <b>Tarefa 1:</b> 
@@ -46,8 +46,6 @@ Após cada experiência de uso, deve ser feita a interpretação dos dados, obse
 Se necessário, deve-se refinar os protótipos em papel para resolver os problemas mais simples.</p>
 
 <p align = "justify"> Será verificado se  foi possível realizar as tarefas sem nenhum problema e se os problemas encontrados no protótipo de papel foram corrigidos</p>
-
-
 
 
 ### 3.3 Relato dos Resultados

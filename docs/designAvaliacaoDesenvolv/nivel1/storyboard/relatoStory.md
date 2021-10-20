@@ -1,3 +1,5 @@
+![UnB](../../../img/unb.jpg)
+
 # Relato dos Resultados dos Storyboards
 
 ## 1. Objetivo
@@ -29,7 +31,7 @@ Os passos são definidos por perguntas, as quais são definidos pelo template da
 <p align = "justify">Rômulo, que está na página inicial do site, precisa acessar o "Detran - veículo". Rapidamente poderia utilizar a barra de busca, porém possui dificuldades e necessita de uma busca por menu, até sua funcionalidade. A ideia é que até mesmo Rômulo possa utilizar a ferramenta, que possui bastante dificuldade com computadores, mas que está interessado a aprender a utilizar a funcionalidade.
 
 <figure>
-<img align=center width="700" src="../../../img/ctt.png">
+<img align=center width="700" src="/../../../img/ctt.png">
 <br>
 <figcaption></a>Figura 1, criado no LucidChart por Autor</figcaption>
 </figure>

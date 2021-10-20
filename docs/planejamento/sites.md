@@ -93,7 +93,7 @@ importante no dia a dia do município.Tem o papel de informar e tornar possível
 ### Sugestão: Hugo Rocha
 
 <figure>
-<img align=center width="250" src="https://guardians.com.br/wp-content/uploads/2018/06/registro-de-marcas-e-patentes-inpi-brasil.jpg">
+<img align=center width="250" src="../../img/inpi.jpg">
 <br>
 <figcaption>Fig. 6 - Logo do INPI</a></figcaption>
 </figure>

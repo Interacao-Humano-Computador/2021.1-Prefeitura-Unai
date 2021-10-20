@@ -1,3 +1,5 @@
+![UnB](../../../img/unb.jpg)
+
 ## 1. Objetivo
 <p align = "justify">
 Dada as funcionalidades definidas na fase de análises de requisitos, será validado se essas mesmas funcionalidades estão de acordo com as metas definidas utilizando StoryBoards, onde será representado o esperado pelo usuário.

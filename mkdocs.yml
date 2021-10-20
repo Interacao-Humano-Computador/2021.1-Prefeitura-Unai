@@ -26,20 +26,23 @@ nav:
     - Metas de usabilidade: perfil/metasUsa.md
     - Guia de estilo: perfil/guiaEstilo.md
   - Design, avaliação e desenvolvimento:
-    - Análise de Tarefas: 
-      - Planejamento: designAvaliacaoDesenvolv/analiseDeTarefas/planejamento.md
-      - Entrevistas: designAvaliacaoDesenvolv/analiseDeTarefas/entrevistas.md
-      - Resultados: designAvaliacaoDesenvolv/analiseDeTarefas/resultados.md
-    - StoryBoard:
-      - Planejamento: designAvaliacaoDesenvolv/storyboard/planejamentoStory.md
-      - Storyboards: designAvaliacaoDesenvolv/storyboard/avastoryboards.md
-      - Relato dos resultados: designAvaliacaoDesenvolv/storyboard/relatoStory.md
-    - Protótipo em papel:
-      - Planejamento:  designAvaliacaoDesenvolv/papel/planejamentopapel.md 
-      - Entrevistas: designAvaliacaoDesenvolv/papel/entrevistaspapel.md
-      - Relato dos resultados: designAvaliacaoDesenvolv/papel/resultadospapel.md
-    - Protótipo de alta fidelidade:
-      - Planejamento:  designAvaliacaoDesenvolv/altafidelidade/planejaltafidelidade.md  
+    - Nível 1:  
+      - Análise de Tarefas: 
+        - Planejamento: designAvaliacaoDesenvolv/nivel1\analiseDeTarefas/planejamento.md
+        - Entrevistas: designAvaliacaoDesenvolv/nivel1\analiseDeTarefas/entrevistas.md
+        - Resultados: designAvaliacaoDesenvolv/nivel1\analiseDeTarefas/resultados.md
+      - StoryBoard:
+        - Planejamento: designAvaliacaoDesenvolv/nivel1\storyboard/planejamentoStory.md
+        - Storyboards: designAvaliacaoDesenvolv/nivel1\storyboard/avastoryboards.md
+        - Relato dos resultados: designAvaliacaoDesenvolv/nivel1\storyboard/relatoStory.md
+    - Nível 2:
+      - Protótipo em papel:
+        - Planejamento:  designAvaliacaoDesenvolv/nivel2\papel/planejamentopapel.md 
+        - Entrevistas: designAvaliacaoDesenvolv/nivel2\papel/entrevistaspapel.md
+        - Relato dos resultados: designAvaliacaoDesenvolv/nivel2\papel/resultadospapel.md
+    - Nível 3:    
+      - Protótipo de alta fidelidade:
+        - Planejamento:  designAvaliacaoDesenvolv/nivel3\altafidelidade/planejaltafidelidade.md  
   - Verificação dos Artefatos:
     - Introdução: verificacao/introducao.md
     - Planejamento:

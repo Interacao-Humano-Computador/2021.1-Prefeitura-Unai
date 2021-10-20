@@ -1,4 +1,4 @@
-![UnB](../../img/unb.jpg)
+![UnB](../../../img/unb.jpg)
 
 # Avaliação
 
@@ -24,9 +24,9 @@ Os membros do grupo conduziram a análise de tarefas como avaliadores, 15 pessoa
 ## 4. Coleta de dados
 
 A coleta de dados foi realizada através de um
-<a href="/designAvaliacaoDesenvolv/analiseDeTarefas/entrevistas/">questionário</a>
+<a href="/designAvaliacaoDesenvolv/nivel1/analiseDeTarefas/entrevistas/">questionário</a>
 e de uma
-<a href="/designAvaliacaoDesenvolv/analiseDeTarefas/entrevistas/">entrevista</a>
+<a href="/designAvaliacaoDesenvolv/nivel1/analiseDeTarefas/entrevistas/">entrevista</a>
 feita com as personas.
 
 ## 5. Problemas encontrados
