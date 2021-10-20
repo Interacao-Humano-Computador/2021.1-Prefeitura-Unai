@@ -27,10 +27,7 @@ A entrevista contou com 2 avaliadores, Deivid Alves e Victor Rayan, e 1 particip
 
 ### Entrevista
 
-<p align = "justify"> O participante, se mostrou prestativo em responder às perguntas e atentamente forneceu seu feedback sobre o protótipo.
-</p>
-
-<p align = "justify"> Nas Tarefa <b> Emissão Iptu/Guia online </b> e <b> Acessar o Detran </b> o participante Breno não encontrou qualquer problema para executar as tarefas. 
+<p align = "justify"> O participante, se mostrou prestativo em responder às perguntas e atentamente forneceu seu feedback sobre o protótipo de alta fidelidade</p>
 
 
 #### Tarefa: Emissão IPTU/GUIA online
@@ -38,16 +35,16 @@ A entrevista contou com 2 avaliadores, Deivid Alves e Victor Rayan, e 1 particip
 | Problemas/Sugestões | Descrição    |       
 |:----:|:----:|
 | Problemas | Nenhum problema foi encontrado |
+| Sugestões: |Nenhuma sugestão |
 
 #### Tarefa: Acessar o Detran
 
-|  | Descrição    |       
+| Problemas/Sugestões | Descrição    |       
 |:----:|:----:|
 | Problemas: | Nenhum problema foi encontrado    |  
 | Sugestões: | Um outro nome para substituir sites externos  |
 
-<p align = "justify"> Nas Tarefa <b> Emissão Iptu/Guia online </b> e <b> Acessar o Detran </b> o participante Pedro não encontrou qualquer problema para executar as tarefas. Todavia, achou as telas com excesso de informações
-o que o deixou confuso. Ademais, sugeriu uma legenda nos tributos da guia online e que pela barra de pesquisa é a principal forma de navegar pelo site. </p>
+<p align = "justify"> Nas Tarefa <b> Emissão Iptu/Guia online </b> e <b> Acessar o Detran </b> o participante não encontrou qualquer problema para executar as tarefas. </p>
 
 ## 4. Conclusão
 <p align = "justify"> Diante de todos os dados coletados, foi possível verificar que o protótipo criado, atende bem em relação às funcionalidades ou seja, as metas de usabilidade foram atingidas. Os problemas, anteriormente encontrados no protótipo de papel, após a correção juntamente com o guia de estilo, foram sanados melhorarando de forma significativa a experiência do usuário. Ademais, com base nas análises de tarefa, é possível concluir que o site da prefeitura de Unaí, é bastante intuitivo, apenas possui alguns excessos de informações na tela. O nosso protótipo corrige esses erros, e atende como solução. 
