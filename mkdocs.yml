@@ -28,23 +28,23 @@ nav:
   - Design, avaliação e desenvolvimento:
     - Nível 1:  
       - Análise de Tarefas: 
-        - Planejamento: designAvaliacaoDesenvolv/nivel1\analiseDeTarefas/planejamento.md
-        - Entrevistas: designAvaliacaoDesenvolv/nivel1\analiseDeTarefas/entrevistas.md
-        - Resultados: designAvaliacaoDesenvolv/nivel1\analiseDeTarefas/resultados.md
+        - Planejamento: designAvaliacaoDesenvolv/nivel1/analiseDeTarefas/planejamento.md
+        - Entrevistas: designAvaliacaoDesenvolv/nivel1/analiseDeTarefas/entrevistas.md
+        - Resultados: designAvaliacaoDesenvolv/nivel1/analiseDeTarefas/resultados.md
       - StoryBoard:
-        - Planejamento: designAvaliacaoDesenvolv/nivel1\storyboard/planejamentoStory.md
-        - Storyboards: designAvaliacaoDesenvolv/nivel1\storyboard/avastoryboards.md
-        - Relato dos resultados: designAvaliacaoDesenvolv/nivel1\storyboard/relatoStory.md
+        - Planejamento: designAvaliacaoDesenvolv/nivel1/storyboard/planejamentoStory.md
+        - Storyboards: designAvaliacaoDesenvolv/nivel1/storyboard/avastoryboards.md
+        - Relato dos resultados: designAvaliacaoDesenvolv/nivel1/storyboard/relatoStory.md
     - Nível 2:
       - Protótipo em papel:
-        - Planejamento:  designAvaliacaoDesenvolv/nivel2\papel/planejamentopapel.md 
-        - Entrevistas: designAvaliacaoDesenvolv/nivel2\papel/entrevistaspapel.md
-        - Relato dos resultados: designAvaliacaoDesenvolv/nivel2\papel/resultadospapel.md
+        - Planejamento:  designAvaliacaoDesenvolv/nivel2/papel/planejamentopapel.md 
+        - Entrevistas: designAvaliacaoDesenvolv/nivel2/papel/entrevistaspapel.md
+        - Relato dos resultados: designAvaliacaoDesenvolv/nivel2/papel/resultadospapel.md
     - Nível 3:    
       - Protótipo de alta fidelidade:
-        - Planejamento:  designAvaliacaoDesenvolv/nivel3\altafidelidade/planejaltafidelidade.md 
-        - Entrevista:  designAvaliacaoDesenvolv/nivel3\altafidelidade/entrevistalta.md
-        - Resultados: designAvaliacaoDesenvolv/nivel3\altafidelidade/resultalta.md
+        - Planejamento:  designAvaliacaoDesenvolv/nivel3/altafidelidade/planejaltafidelidade.md 
+        - Entrevista:  designAvaliacaoDesenvolv/nivel3/altafidelidade/entrevistalta.md
+        - Resultados: designAvaliacaoDesenvolv/nivel3/altafidelidade/resultalta.md
   - Verificação dos Artefatos:
     - Introdução: verificacao/introducao.md
     - Planejamento:
