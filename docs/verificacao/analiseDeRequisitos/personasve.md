@@ -20,11 +20,13 @@
 | Número | Questão | Resposta |
 |:----:|:----:|:----:|
 |1|O Documento possui versionamento?|✅|
-|3|As persona descreve um usuário típico?|✅|
-|4|Há uma antipersona?|✅|
-|5|As personas estão apresentadas de forma clara, com imagem|✅|
-|6|Os tópicos correspondem com os conteúdos apresentados?|✅|
-|7| As imagens estão geradas com direitos autorais.|✅ |
+|2|As persona descreve um usuário típico?|✅|
+|3|O elenco de personas segue o tamanho recomendado?|✅|
+|4|O elenco de personas aborda os diferentes tipo de usuários?|✅|
+|5|Há uma antipersona?|✅|
+|6|As personas estão apresentadas de forma clara, com imagem|✅|
+|7|Os tópicos correspondem com os conteúdos apresentados?|✅|
+|8| As imagens estão geradas com direitos autorais.|✅ |
 
 
 ## Conclusão

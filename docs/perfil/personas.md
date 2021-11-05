@@ -1,13 +1,15 @@
 ![UnB](../img/unb.jpg)
 
 ## 1. Descrição
-<p align="justify">Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais,
-criada para descrever um usuário típico (Cooper et al., 2014; Pruitt e Adlin, 2006; Cooper, 1999). As personas
-serão utilizadas no nosso projeto principalmente para representar um grupo de usuários finais durante discussões de design,
-mantendo todos do grupo focados no mesmo alvo.</p>
+<p align="justify">Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2014; Pruitt e Adlin, 2006; Cooper, 1999). </p>
 
+## 2. Elenco de personas
 
-## 2. Personas
+<p align="justify">  Courage e Baxter (2005) alertam para que se tenham um cuidado na escolha do número de personas elaboradas. É importante representar os principais grupos de usuários, para ajudar a desenvolver um produto atenda a todos. Não podemos nos limitar a uma só persona e deixar de fora dados valiosos de usuários finais que não se enquadram em um mesmo grupo, porém é importante ressaltar que as personas precisam ser memoráveis e fáceis de serem lembradas, para isso, o elenco de personas não pode ser muito grande. Caso exista muitas personas para representar os diferentes grupos de usuários, elas podem acabar confundindo a mente dos designers e desenvolvedores, com isso reduzimos os benefícios dessa técnica. Uma recomendação comum é que o elenco de personas inclua três personas primárias. </p>
+
+<p align="justify"> O Elenco de personas será utilizado no nosso projeto principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos do grupo focados no mesmo alvo e também para "responder" entrevistas onde não for possível executar com pessoas reais.  </p>
+
+<p align="justify"> Levando em conta o perfil de usuário analisado anteriormente, levantamos as seguintes personas, buscando representar de fato o público-alvo das funcionalidades do site. </p>
 
 #### 2.1 Persona 1 
 
