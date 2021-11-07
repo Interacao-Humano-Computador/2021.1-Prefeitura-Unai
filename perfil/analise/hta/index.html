@@ -10,7 +10,7 @@
       
       
       <link rel="icon" href="../../../img/logo.png">
-      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.5">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.4">
     
     
       
@@ -18,7 +18,7 @@
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.be71726b.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.f7f47774.min.css">
       
         
         <link rel="stylesheet" href="../../../assets/stylesheets/palette.3f5d1f46.min.css">
@@ -71,7 +71,7 @@
     </div>
     
       <header class="md-header" data-md-component="header">
-  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+  <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="../../.." title="Prefeitura de Unaí - IHC 2021.1" class="md-header__button md-logo" aria-label="Prefeitura de Unaí - IHC 2021.1" data-md-component="logo">
       
   <img src="../../../img/logo.png" alt="logo">
@@ -112,9 +112,9 @@
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
       </label>
-      <nav class="md-search__options" aria-label="Pesquisar">
+      <nav class="md-search__options" aria-label="Search">
         
-        <button type="reset" class="md-search__icon md-icon" aria-label="Limpar" tabindex="-1">
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
         </button>
       </nav>
@@ -124,7 +124,7 @@
       <div class="md-search__scrollwrap" data-md-scrollfix>
         <div class="md-search-result" data-md-component="search-result">
           <div class="md-search-result__meta">
-            Inicializando a pesquisa
+            Initializing search
           </div>
           <ol class="md-search-result__list"></ol>
         </div>
@@ -153,7 +153,7 @@
                     
 
 
-<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="../../.." title="Prefeitura de Unaí - IHC 2021.1" class="md-nav__button md-logo" aria-label="Prefeitura de Unaí - IHC 2021.1" data-md-component="logo">
       
@@ -1232,12 +1232,14 @@ trabalho, e isso é o que a distingue de outras técnicas. Essa técnica é util
 <p align = "justify">Essa técnica será adotada, pois ela fornece uma abordagem genérica para a investigação de problemas de IHC (Annet e Diaper, 2003). Além disso, porque ela facilita a ilustração de tarefas do sistema, pelas diferentes maneiras em relação a como as tarefas devem ser executadas pelo usuário, demonstrando as possibilidades de inputs, ações, feedback e problemas.</p>
 
 <h2 id="resultados">Resultados</h2>
-<p align = "justify">A seguir estão apresentadas as análises das tarefas HTA:</p>
+<p align = "justify">Análises das tarefas HTA com notação de acordo com o livro Barbosa e Silva:</p>
 <figure>
-<img align=center style="width: 700px heigth: 50px " src="../../../img/hta_hugo.png">
+<img align=center style="width: 700px heigth: 50px " src="../../../img/htapres.png">
 <br>
 </figure>
-<p><center><em>Figura 1 - Diagrama HTA solicitação de iluminação pública.</em></center></p>
+<p><center><em>Figura 2 - Diagrama HTA atualizado solicitação de iluminação pública.</em></center></p>
+<p align = "justify">A notação utilizada nesse diagrama se baseia no livro de Barbosa e Silva. Esse diagrama apresenta a hierarquia, e descreve planos que definem a ordenação das atividade de solicitar o serviço de iluminação pública. Nesse caso, Plano 0: faça 1, depois 1.1. Esse plano, define os subobjetivos necessários para alcançar o outro objetivo maior, e mostra a ordem em que esses subobjetivos devem ser alcançados.</p>
+
 <table>
 <thead>
 <tr>
@@ -1247,32 +1249,20 @@ trabalho, e isso é o que a distingue de outras técnicas. Essa técnica é util
 </thead>
 <tbody>
 <tr>
-<td align="center">0. Solicitar serviço de iluminação pública </br> 1&gt;2</td>
+<td align="center">0. Solicitar serviço de iluminação pública </br></td>
 <td align="center">input: formulário com dados do usuário e seleção do serviço desejado</td>
 </tr>
 <tr>
-<td align="center">1. Acessar o site da prefeitura de Unaí</td>
-<td align="center">ação: acessar o site: prefeituraunai.mg.gov.br</td>
-</tr>
-<tr>
-<td align="center">2. Clicar na guia de serviços </br> 1+3</td>
+<td align="center">1. Clicar na guia de serviços </br></td>
 <td align="center">ação: clicar na guia de serviços ao cidadão</td>
 </tr>
 <tr>
-<td align="center">3. Preencher os dados do usuário e selecionar serviço desejado</td>
+<td align="center">1.1 Preencher os dados do usuário,captacha e selecionar serviço desejado e clicar no botão enviar formulário</td>
 <td align="center">ação: preencher o formulário e selecionar iluminação pública</td>
-</tr>
-<tr>
-<td align="center">4. Preencher o captcha</td>
-<td align="center">ação: preencher corretamente o captcha</td>
-</tr>
-<tr>
-<td align="center">5. Enviar formulário</td>
-<td align="center">ação: clicar no botão de enviar formulário</td>
 </tr>
 </tbody>
 </table>
-<p><em>Tabela HTA para a solicitação de iluminação pública.</em></p>
+<p><em>Diagrama HTA atualizado solicitação de iluminação pública.</em></p>
 <h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
 <p>Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J.
 (2021) Interação Humano-Computador e Experiência do Usuário.</p>
@@ -1329,7 +1319,7 @@ trabalho, e isso é o que a distingue de outras técnicas. Essa técnica é util
         
 <footer class="md-footer">
   
-    <nav class="md-footer__inner md-grid" aria-label="Rodapé">
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
         <a href="../../personas/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Personas" rel="prev">
@@ -1383,10 +1373,10 @@ trabalho, e isso é o que a distingue de outras técnicas. Essa técnica é util
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.term.missing": "Ausente", "select.version.title": "Selecione a vers\u00e3o"}, "search": "../../../assets/javascripts/workers/search.409db549.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../../assets/javascripts/workers/search.709b4209.min.js", "version": null}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.56a63758.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.febc23d1.min.js"></script>
       
     
   </body>
